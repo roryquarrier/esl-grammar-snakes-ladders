@@ -9,7 +9,7 @@ const mascotPath = path.join(__dirname, 'mascot.png');
 const piecePath = path.join(__dirname, 'piece.png');
 const snakePath = path.join(__dirname, 'snake.png');
 const ladderPath = path.join(__dirname, 'ladder.png');
-const outPath = path.join(__dirname, 'game.html');
+const outPath = path.join(__dirname, 'index.html');
 
 // Run Parser First to regenerate questions.json
 try {
