@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>Difficulty Filter Test</title>
+</head>
+
+<body>
+    <h1>Difficulty Filter Test</h1>
+    <div id="output"></div>
+
+    <script>
+        // Load the same data the game uses
+        const grammarQuestions = /* GRAMMAR_QUESTIONS_PLACEHOLDER */;
+
+        // Simulate selecting ONLY "Easy"
+        const selectedDifficulties = new Set(["⭐ Easy"]);
+
+        // Filter questions
+        const filteredQuestions = grammarQuestions.filter(q => selectedDifficulties.has(q.difficulty));
+
+        // Display results
+        const output = document.getElementById('output');
+        output.innerHTML = `
+            <h2>Selected Difficulties:</h2>
+            <pre>${JSON.stringify([...selectedDifficulties], null, 2)}</pre>
+            
+            <h2>Filtered Questions (first 10):</h2>
+            <pre>${JSON.stringify(filteredQuestions.slice(0, 10).map(q => ({
+            id: q.id,
+            difficulty: q.difficulty,
+            question: q.question
+        })), null, 2)}</pre>
+            
+            <h2>Stats:</h2>
+            <p>Total questions: ${grammarQuestions.length}</p>
+            <p>Filtered questions: ${filteredQuestions.length}</p>
+            
+            <h2>All unique difficulties in dataset:</h2>
+            <pre>${JSON.stringify([...new Set(grammarQuestions.map(q => q.difficulty))].sort(), null, 2)}</pre>
+        `;
+    </script>
+</body>
+
+</html>

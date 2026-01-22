@@ -1,0 +1,36 @@
+{
+    "mcpServers": {
+        "github": {
+            "command": "wsl",
+            "args": [
+                "bash",
+                "-c",
+                "export GITHUB_PERSONAL_ACCESS_TOKEN='<YOUR_TOKEN_HERE>' && npx -y @modelcontextprotocol/server-github"
+            ]
+        },
+        "alpha-arena": {
+            "command": "wsl",
+            "args": [
+                "bash",
+                "-c",
+                "export PYTHONUNBUFFERED=1 && cd /home/hal/alpha-arena-mcp && ./start.sh"
+            ]
+        },
+        "hyperliquid-info": {
+            "command": "wsl",
+            "args": [
+                "bash",
+                "-c",
+                "export PYTHONUNBUFFERED=1 && export VIRTUAL_ENV='/home/hal/hyperliquid-info-mcp/hyperliquid-venv' && export PATH=\"/home/hal/hyperliquid-info-mcp/hyperliquid-venv/bin:$PATH\" && cd /home/hal/hyperliquid-info-mcp && python3 main.py"
+            ]
+        },
+        "crypto-indicators": {
+            "command": "wsl",
+            "args": [
+                "bash",
+                "-c",
+                "export NODE_ENV=production && cd /home/hal/crypto-indicators-mcp && node index.js"
+            ]
+        }
+    }
+}

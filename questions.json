@@ -1,0 +1,3359 @@
+[
+  {
+    "id": "1.1",
+    "units": "1",
+    "topic": "am/is/are",
+    "difficulty": "⭐ Easy",
+    "rule": "Use \"I'm\" (I am) to talk about yourself right now.",
+    "example": "✓ I'm hot! (I am hot)\n✗ I hot! (missing \"am\")",
+    "question": "Can you turn on the aircon, please? ______",
+    "options": [
+      "I hot",
+      "I'm hot",
+      "I have hot",
+      "It has hot"
+    ],
+    "correctIndices": [
+      1
+    ]
+  },
+  {
+    "id": "1.2",
+    "units": "1",
+    "topic": "am/is/are",
+    "difficulty": "⭐ Easy",
+    "rule": "Use \"isn't\" (is not) for negative sentences with he/she/it.",
+    "example": "✓ Emma isn't interested in video games.\n✗ Emma not interested in video games.",
+    "question": "Emma ______ in playing video games.",
+    "options": [
+      "isn't interested",
+      "not interested",
+      "doesn't interested",
+      "doesn't interest"
+    ],
+    "correctIndices": [
+      0
+    ]
+  },
+  {
+    "id": "1.3",
+    "units": "2",
+    "topic": "am/is/are (questions)",
+    "difficulty": "⭐ Easy",
+    "rule": "In questions, put \"is\" BEFORE the subject (person/thing).",
+    "example": "✓ Is your brother at home?\n✗ Is at home your brother? (wrong order)",
+    "question": "'______?' 'No, he's at school.'",
+    "options": [
+      "Is at home your brother",
+      "Does your brother at home",
+      "Is your brother at home",
+      "Are your brother at home"
+    ],
+    "correctIndices": [
+      2
+    ]
+  },
+  {
+    "id": "1.4",
+    "units": "2",
+    "topic": "am/is/are (questions)",
+    "difficulty": "⭐ Easy",
+    "rule": "Use \"How much are they?\" to ask about price (plural things).",
+    "example": "✓ How much are they? (asking price of toys)\n✗ How much they are? (wrong question order)",
+    "question": "These toys are cool. ______?",
+    "options": [
+      "How much are they?",
+      "How many are they?",
+      "How much they are?",
+      "How much is they?"
+    ],
+    "correctIndices": [
+      0
+    ]
+  },
+  {
+    "id": "1.5",
+    "units": "3, 23",
+    "topic": "I am doing (present continuous) + be/have/do",
+    "difficulty": "⭐ Easy",
+    "rule": "Use \"is/are + verb-ing\" for actions happening RIGHT NOW.",
+    "example": "✓ Look! She is wearing a pink backpack. (now)\n✗ Look! She wearing a pink backpack. (missing \"is\")",
+    "question": "Look, there's Amy. ______ a pink backpack.",
+    "options": [
+      "She wearing",
+      "She has wearing",
+      "She is wearing",
+      "She's wearing"
+    ],
+    "correctIndices": [
+      2,
+      3
+    ]
+  },
+  {
+    "id": "1.6",
+    "units": "3, 23",
+    "topic": "I am doing (present continuous) + be/have/do",
+    "difficulty": "⭐ Easy",
+    "rule": "Use \"I'm not + verb-ing\" for negative present continuous.",
+    "example": "✓ I'm not watching TV. (not now)\n✗ I don't watching TV. (wrong form)",
+    "question": "You can turn off the TV. ______ it.",
+    "options": [
+      "I'm not watch",
+      "I'm not watching",
+      "I not watching",
+      "I don't watching"
+    ],
+    "correctIndices": [
+      1
+    ]
+  },
+  {
+    "id": "1.7",
+    "units": "4, 23",
+    "topic": "Are you doing? (present continuous questions) + be/have/do",
+    "difficulty": "⭐ Easy",
+    "rule": "For present continuous questions: Is + subject + verb-ing?",
+    "example": "✓ Is Ben swimming today?\n✗ Is swimming Ben? (wrong order)",
+    "question": "'______ today?' 'No, he's staying home.'",
+    "options": [
+      "Is swimming Ben",
+      "Is swim Ben",
+      "Is Ben swim",
+      "Is Ben swimming"
+    ],
+    "correctIndices": [
+      3
+    ]
+  },
+  {
+    "id": "1.8",
+    "units": "4, 23",
+    "topic": "Are you doing? (present continuous questions) + be/have/do",
+    "difficulty": "⭐ Easy",
+    "rule": "Question word + is/are + subject + verb-ing?",
+    "example": "✓ Where is she going?\n✓ Where's she going? (short form)",
+    "question": "Look, there's Katie! ______?",
+    "options": [
+      "Where she is going?",
+      "Where is she going?",
+      "Where's she going?",
+      "Where she going?"
+    ],
+    "correctIndices": [
+      1,
+      2
+    ]
+  },
+  {
+    "id": "1.9",
+    "units": "5, 23",
+    "topic": "I do/work/like (present simple) + be/have/do",
+    "difficulty": "⭐ Easy",
+    "rule": "Add \"-s\" or \"-es\" to verbs with he/she/it in present simple.",
+    "example": "✓ The MTR goes to Tung Chung. (goes, not go)\n✗ The MTR go to Tung Chung.",
+    "question": "The MTR ______ to Tung Chung every day.",
+    "options": [
+      "going",
+      "go",
+      "goes",
+      "does go",
+      "is go"
+    ],
+    "correctIndices": [
+      2
+    ]
+  },
+  {
+    "id": "1.10",
+    "units": "5, 23, 94",
+    "topic": "I do/work/like (present simple) + word order",
+    "difficulty": "⭐ Easy",
+    "rule": "Put frequency words (often, usually, always) BEFORE the main verb.",
+    "example": "✓ We often go to the park. (often before go)\n✗ We go often to the park. (wrong position)",
+    "question": "We ______ to the park on Sundays.",
+    "options": [
+      "often go",
+      "go often",
+      "often going",
+      "are often go"
+    ],
+    "correctIndices": [
+      0
+    ]
+  },
+  {
+    "id": "1.11",
+    "units": "6, 23",
+    "topic": "I don't... (present simple negative) + be/have/do",
+    "difficulty": "⭐ Easy",
+    "rule": "Use \"don't\" + verb (we/you/they) for negative present simple.",
+    "example": "✓ We don't use tablets often.\n✗ We doesn't use tablets often. (doesn't is wrong with \"we\")",
+    "question": "We ______ tablets at school very often.",
+    "options": [
+      "not use",
+      "doesn't use",
+      "don't use",
+      "don't using",
+      "use not"
+    ],
+    "correctIndices": [
+      2
+    ]
+  },
+  {
+    "id": "1.12",
+    "units": "7, 23",
+    "topic": "Do you...? (present simple questions) + be/have/do",
+    "difficulty": "⭐ Easy",
+    "rule": "Use \"Do you + verb?\" for present simple questions.",
+    "example": "✓ Do you play basketball?\n✗ Are you play basketball? (use Do, not Are)",
+    "question": "'______ basketball?' 'Yes, but I'm not very good.'",
+    "options": [
+      "Do you play",
+      "Are you play",
+      "Does you play",
+      "Do you playing",
+      "Play you"
+    ],
+    "correctIndices": [
+      0
+    ]
+  },
+  {
+    "id": "1.13",
+    "units": "7, 23",
+    "topic": "Do you...? (present simple questions) + be/have/do",
+    "difficulty": "⭐ Easy",
+    "rule": "Question word + does + subject + verb (not verb-s)?",
+    "example": "✓ What does this word mean?\n✗ What means this word? (wrong order)",
+    "question": "I don't understand this maths problem. What ______?",
+    "options": [
+      "mean this number",
+      "means this number",
+      "does mean this number",
+      "does this number mean",
+      "this number means"
+    ],
+    "correctIndices": [
+      3
+    ]
+  },
+  {
+    "id": "1.14",
+    "units": "8, 23",
+    "topic": "I am doing and I do + be/have/do",
+    "difficulty": "⭐⭐ Medium",
+    "rule": "Use \"I'm doing\" for actions happening NOW. Use \"I do\" for regular actions.",
+    "example": "✓ I'm doing my homework. (now)\n✓ I do my homework every day. (regular)",
+    "question": "Please be quiet. ______ my homework.",
+    "options": [
+      "I do",
+      "I am doing",
+      "I don't",
+      "I'm not"
+    ],
+    "correctIndices": [
+      3
+    ]
+  },
+  {
+    "id": "1.15",
+    "units": "8, 58",
+    "topic": "I am doing and I do + have",
+    "difficulty": "⭐⭐ Medium",
+    "rule": "Use \"has\" (not have) with he/she/it for regular actions.",
+    "example": "✓ Tommy has breakfast every morning. (regular)\n✗ Tommy have breakfast. (needs \"has\" with he)",
+    "question": "Tommy ______ breakfast before school every morning.",
+    "options": [
+      "has",
+      "having",
+      "is having",
+      "have"
+    ],
+    "correctIndices": [
+      0
+    ]
+  },
+  {
+    "id": "1.16",
+    "units": "8, 23",
+    "topic": "I am doing and I do + be/have/do",
+    "difficulty": "⭐⭐ Medium",
+    "rule": "Use \"do you usually do\" for questions about regular actions.",
+    "example": "✓ What do you usually do after school? (regular habit)\n✗ What are you usually doing? (wrong for habits)",
+    "question": "What ______ after school?",
+    "options": [
+      "do you usually",
+      "are you usually doing",
+      "are you usually do",
+      "do you usually do",
+      "you do usually"
+    ],
+    "correctIndices": [
+      3
+    ]
+  },
+  {
+    "id": "1.17",
+    "units": "9, 58",
+    "topic": "I have... and I've got + have",
+    "difficulty": "⭐ Easy",
+    "rule": "British English: Both \"has\" and \"has got\" mean possession (same!).",
+    "example": "✓ She has a headache. (British style 1)\n✓ She's got a headache. (British style 2)\nBoth are correct!",
+    "question": "Sarah isn't feeling well. ______ a headache.",
+    "options": [
+      "She have",
+      "She have got",
+      "She has",
+      "She's got"
+    ],
+    "correctIndices": [
+      2,
+      3
+    ]
+  },
+  {
+    "id": "1.18",
+    "units": "9, 58",
+    "topic": "I have... and I've got + have",
+    "difficulty": "⭐ Easy",
+    "rule": "British English: Use \"haven't got\" OR \"don't have\" for negative.",
+    "example": "✓ They haven't got any pets. (British style 1)\n✓ They don't have any pets. (British style 2)",
+    "question": "They ______ any pets at home.",
+    "options": [
+      "don't have",
+      "doesn't have",
+      "no have",
+      "haven't got",
+      "hasn't got"
+    ],
+    "correctIndices": [
+      0,
+      3
+    ]
+  },
+  {
+    "id": "2.1",
+    "units": "10",
+    "topic": "was/were",
+    "difficulty": "⭐ Easy",
+    "rule": "Use \"was/were\" (not am/is/are) to talk about the past.",
+    "example": "✓ The weather was sunny. (past)\n✗ The weather is sunny. (present, not past)",
+    "question": "The weather ______ during Chinese New Year.",
+    "options": [
+      "is sunny",
+      "was sunny",
+      "were sunny",
+      "sunny",
+      "had sunny"
+    ],
+    "correctIndices": [
+      1
+    ]
+  },
+  {
+    "id": "2.2",
+    "units": "10",
+    "topic": "was/were",
+    "difficulty": "⭐ Easy",
+    "rule": "In past questions, put \"were/was\" BEFORE the subject.",
+    "example": "✓ Why were you late?\n✗ Why you were late? (wrong question order)",
+    "question": "Why ______ late for school this morning?",
+    "options": [
+      "you was",
+      "did you",
+      "was you",
+      "you were",
+      "were you"
+    ],
+    "correctIndices": [
+      4
+    ]
+  },
+  {
+    "id": "2.3",
+    "units": "11",
+    "topic": "worked/got/went (past simple)",
+    "difficulty": "⭐ Easy",
+    "rule": "Use past form (worked, went, studied) to talk about finished past actions.",
+    "example": "✓ My sister worked at Ocean Park. (past)\n✗ My sister work at Ocean Park. (needs past form)",
+    "question": "My sister ______ at Ocean Park from 2018 to 2023.",
+    "options": [
+      "work",
+      "working",
+      "works",
+      "worked",
+      "was work"
+    ],
+    "correctIndices": [
+      3
+    ]
+  },
+  {
+    "id": "2.4",
+    "units": "11",
+    "topic": "worked/got/went (past simple)",
+    "difficulty": "⭐ Easy",
+    "rule": "Use past form of irregular verbs: go → went (not goed).",
+    "example": "✓ Michael went to the pool. (went = past of go)\n✗ Michael goed to the pool. (no such word!)",
+    "question": "Michael ______ to the swimming pool three times last week.",
+    "options": [
+      "go",
+      "went",
+      "goes",
+      "got",
+      "was"
+    ],
+    "correctIndices": [
+      1
+    ]
+  },
+  {
+    "id": "2.5",
+    "units": "12, 23",
+    "topic": "I didn't... Did you...? + be/have/do",
+    "difficulty": "⭐ Easy",
+    "rule": "Use \"didn't + verb\" (NOT didn't + past verb) for past negative.",
+    "example": "✓ I didn't play games. (didn't + play)\n✗ I didn't played games. (don't use past after didn't)",
+    "question": "I ______ video games yesterday.",
+    "options": [
+      "didn't play",
+      "didn't played",
+      "wasn't played",
+      "don't play",
+      "didn't playing"
+    ],
+    "correctIndices": [
+      0
+    ]
+  },
+  {
+    "id": "2.6",
+    "units": "12",
+    "topic": "I didn't... Did you...?",
+    "difficulty": "⭐⭐ Medium",
+    "rule": "In past questions: did + subject + verb (not past verb)?",
+    "example": "✓ How did the accident happen? (did + happen)\n✗ How did the accident happened? (no past after did)",
+    "question": "'How ______?' 'I don't know. I didn't see it.'",
+    "options": [
+      "happened the accident",
+      "did happen the accident",
+      "does the accident happen",
+      "did the accident happen  ✓",
+      "the accident happened"
+    ],
+    "correctIndices": [
+      3
+    ]
+  },
+  {
+    "id": "2.7",
+    "units": "13",
+    "topic": "I was doing (past continuous)",
+    "difficulty": "⭐⭐ Medium",
+    "rule": "Use \"was/were + verb-ing\" for actions in progress in the past.",
+    "example": "✓ What were you doing at 3 o'clock? (action in progress)\n✗ What did you do at 3 o'clock? (completed action, different meaning)",
+    "question": "What ______ at 3 o'clock yesterday afternoon?",
+    "options": [
+      "were you doing",
+      "was you doing",
+      "you were doing",
+      "were you do",
+      "you was doing"
+    ],
+    "correctIndices": [
+      0
+    ]
+  },
+  {
+    "id": "2.8",
+    "units": "14",
+    "topic": "I was doing and I did",
+    "difficulty": "⭐⭐ Medium",
+    "rule": "When one action interrupts another: past continuous + past simple.",
+    "example": "✓ He was reading when his phone rang.\n(was reading = in progress, rang = interruption)",
+    "question": "Jack was reading a comic book when his phone ______.",
+    "options": [
+      "ringing",
+      "ring",
+      "rang",
+      "was ringing",
+      "was ring"
+    ],
+    "correctIndices": [
+      2
+    ]
+  },
+  {
+    "id": "2.9",
+    "units": "14",
+    "topic": "I was doing and I did",
+    "difficulty": "⭐⭐ Medium",
+    "rule": "Use \"were/was + verb-ing\" for ongoing action when you saw it.",
+    "example": "✓ They were waiting. (I saw them in the middle of waiting)\n✗ They waited. (completed action, different meaning)",
+    "question": "I saw Lucy and Kevin this morning. They ______ at the MTR station.",
+    "options": [
+      "waiting",
+      "waited",
+      "were waiting  ✓",
+      "was waiting",
+      "were waited"
+    ],
+    "correctIndices": [
+      2
+    ]
+  },
+  {
+    "id": "3.1",
+    "units": "15",
+    "topic": "I have done (present perfect 1)",
+    "difficulty": "⭐⭐⭐ Hard",
+    "rule": "Use \"has/have + past participle\" for recent actions with present result.",
+    "example": "✓ She's gone to bed. (she's in bed NOW, result of going)\n✗ She went to bed. (just stating past fact, no present result)",
+    "question": "'Where's Rebecca?' '______ to bed.'",
+    "options": [
+      "She is gone",
+      "She has gone",
+      "She goes",
+      "She have gone",
+      "She's gone"
+    ],
+    "correctIndices": [
+      1,
+      4
+    ]
+  },
+  {
+    "id": "3.2",
+    "units": "16",
+    "topic": "I've just... I've already... (present perfect 2)",
+    "difficulty": "⭐⭐⭐ Hard",
+    "rule": "Use \"haven't arrived yet\" to say something hasn't happened (but we expected it).",
+    "example": "✓ They haven't arrived yet. (still waiting for them)\n✗ They don't arrive yet. (wrong tense)",
+    "question": "'Are Laura and Paul here?' 'No, they ______.'",
+    "options": [
+      "don't arrive yet",
+      "have already arrived",
+      "haven't already arrived",
+      "haven't arrived yet"
+    ],
+    "correctIndices": [
+      3
+    ]
+  },
+  {
+    "id": "3.3",
+    "units": "17, 23",
+    "topic": "Have you ever...? + be/have/do",
+    "difficulty": "⭐⭐⭐ Hard",
+    "rule": "Use \"has/have + never + past participle\" for life experiences.\nRemember: travel → travelled (British spelling with double L)",
+    "example": "✓ She has never travelled by plane. (in her life)\n✗ She never travelled. (missing \"has\")",
+    "question": "My brother ______ on a plane.",
+    "options": [
+      "has never travel",
+      "has never travelled",
+      "is never travelled",
+      "has never been travelled",
+      "have never travelled"
+    ],
+    "correctIndices": [
+      1
+    ]
+  },
+  {
+    "id": "3.4",
+    "units": "17, 23",
+    "topic": "Have you ever...? + be/have/do",
+    "difficulty": "⭐⭐⭐ Hard",
+    "rule": "Present perfect: see → seen (NOT saw).",
+    "example": "✓ I've seen that teacher before. (I've seen = I have seen)\n✗ I've saw that teacher. (wrong past participle)",
+    "question": "______ that teacher before, but I can't remember where.",
+    "options": [
+      "I see",
+      "I seen",
+      "I've saw",
+      "I've seen",
+      "I've seeing"
+    ],
+    "correctIndices": [
+      3
+    ]
+  },
+  {
+    "id": "3.5",
+    "units": "18",
+    "topic": "How long have you...?",
+    "difficulty": "⭐⭐⭐ Hard",
+    "rule": "Use \"have you been\" (NOT are you) with \"How long\" for duration.",
+    "example": "✓ How long have you been friends? (duration until now)\n✗ How long are you friends? (wrong tense)",
+    "question": "'How long ______ friends?' 'Since Primary 1.'",
+    "options": [
+      "you are",
+      "you have been",
+      "has you been",
+      "are you",
+      "have you been"
+    ],
+    "correctIndices": [
+      4
+    ]
+  },
+  {
+    "id": "3.6",
+    "units": "18",
+    "topic": "How long have you...?",
+    "difficulty": "⭐⭐⭐ Hard",
+    "rule": "Use \"I've known\" (NOT I know) for \"how long\" situations continuing to now.",
+    "example": "✓ I've known her for ages. (still know her now)\n✗ I know her for ages. (wrong tense for duration)",
+    "question": "'Do you know Lisa?' 'Yes, ______ her for a long time.'",
+    "options": [
+      "I knew",
+      "I've known",
+      "I know",
+      "I am knowing"
+    ],
+    "correctIndices": [
+      1
+    ]
+  },
+  {
+    "id": "3.7",
+    "units": "19, 104",
+    "topic": "for, since, ago + from... to, until, since",
+    "difficulty": "⭐⭐⭐ Hard",
+    "rule": "Use \"for + period of time\" with present perfect (not \"since + period\").",
+    "example": "✓ for six months (duration)\n✗ since six months (wrong preposition)",
+    "question": "Richard has been in Hong Kong ______.",
+    "options": [
+      "for six months",
+      "since six months",
+      "six months ago",
+      "in six months"
+    ],
+    "correctIndices": [
+      0
+    ]
+  },
+  {
+    "id": "3.8",
+    "units": "19",
+    "topic": "for, since, ago",
+    "difficulty": "⭐⭐⭐ Hard",
+    "rule": "Use \"ago\" (NOT for/since) to say when something happened.",
+    "example": "✓ Ten minutes ago. (saying when)\n✗ For ten minutes. (saying how long)",
+    "question": "'When did Tom leave?' '______'",
+    "options": [
+      "For ten minutes.",
+      "Since ten minutes.",
+      "Ten minutes ago.",
+      "In ten minutes."
+    ],
+    "correctIndices": [
+      2
+    ]
+  },
+  {
+    "id": "3.9",
+    "units": "20",
+    "topic": "I have done and I did",
+    "difficulty": "⭐⭐⭐ Hard",
+    "rule": "Use past simple (NOT present perfect) with specific past time (last year, yesterday).",
+    "example": "✓ We didn't have a trip last summer. (specific time = past simple)\n✗ We haven't had a trip last summer. (can't use with \"last summer\")",
+    "question": "We ______ a family trip last summer.",
+    "options": [
+      "don't have",
+      "haven't had",
+      "hasn't had",
+      "didn't have",
+      "didn't had"
+    ],
+    "correctIndices": [
+      3
+    ]
+  },
+  {
+    "id": "3.10",
+    "units": "20",
+    "topic": "I have done and I did",
+    "difficulty": "⭐⭐⭐ Hard",
+    "rule": "Use past simple (were) with specific past time, NOT present perfect.",
+    "example": "✓ Where were you on Sunday? (specific time)\n✗ Where have you been on Sunday? (wrong with specific time)",
+    "question": "Where ______ on Sunday afternoon? I couldn't find you.",
+    "options": [
+      "you were",
+      "you have been",
+      "was you",
+      "have you been",
+      "were you  ✓"
+    ],
+    "correctIndices": [
+      4
+    ]
+  },
+  {
+    "id": "4.1",
+    "units": "21, 23",
+    "topic": "is done, was done + be/have/do",
+    "difficulty": "⭐⭐⭐ Hard",
+    "rule": "Passive: was/were + past participle (built, made, opened).",
+    "example": "✓ This school was built 50 years ago.\n✗ This school built 50 years ago. (missing \"was\")",
+    "question": "This school ______ 50 years ago.",
+    "options": [
+      "is built",
+      "is building",
+      "was building",
+      "was built",
+      "built"
+    ],
+    "correctIndices": [
+      3
+    ]
+  },
+  {
+    "id": "4.2",
+    "units": "21, 23",
+    "topic": "is done, was done + be/have/do",
+    "difficulty": "⭐⭐⭐ Hard",
+    "rule": "Passive negative: weren't/wasn't + past participle.",
+    "example": "✓ We weren't invited. (passive)\n✗ We didn't invite. (active, different meaning)",
+    "question": "We ______ to the birthday party last week.",
+    "options": [
+      "didn't invite",
+      "didn't invited",
+      "weren't invited",
+      "wasn't invited",
+      "haven't been invited"
+    ],
+    "correctIndices": [
+      2
+    ]
+  },
+  {
+    "id": "4.3",
+    "units": "21",
+    "topic": "is done, was done",
+    "difficulty": "⭐⭐⭐ Hard",
+    "rule": "Passive questions: Where were you born? (NOT Where did you born?)",
+    "example": "✓ Where were you born?\n✗ Where did you born? (passive needs \"were\", not \"did\")",
+    "question": "'Where ______ born?' 'In Hong Kong.'",
+    "options": [
+      "you are",
+      "you were",
+      "was you",
+      "are you",
+      "were you"
+    ],
+    "correctIndices": [
+      4
+    ]
+  },
+  {
+    "id": "4.4",
+    "units": "22",
+    "topic": "is being done, has been done",
+    "difficulty": "⭐⭐⭐ Hard",
+    "rule": "Passive continuous: is/are being + past participle.",
+    "example": "✓ It is being repaired. (repair in progress now)\n✗ It is repairing. (wrong form)",
+    "question": "My bicycle is at the shop. It ______.",
+    "options": [
+      "is being repaired",
+      "is repairing",
+      "have been repaired",
+      "repaired",
+      "repairs"
+    ],
+    "correctIndices": [
+      0
+    ]
+  },
+  {
+    "id": "4.5",
+    "units": "22",
+    "topic": "is being done, has been done",
+    "difficulty": "⭐⭐⭐ Hard",
+    "rule": "Present perfect passive: has/have been + past participle.",
+    "example": "✓ It's been stolen. (has been stolen)\n✗ It's stolen. (simple present, wrong for completed action)",
+    "question": "I can't find my pencil case. I think ______.",
+    "options": [
+      "it's been stolen",
+      "it is stolen",
+      "it's stolen",
+      "it's being stolen"
+    ],
+    "correctIndices": [
+      0
+    ]
+  },
+  {
+    "id": "5.1",
+    "units": "23",
+    "topic": "be/have/do in present and past tenses",
+    "difficulty": "⭐⭐ Medium",
+    "rule": "Past continuous: wasn't/weren't + verb-ing.",
+    "example": "✓ It wasn't raining. (past continuous)\n✗ It didn't raining. (wrong form)",
+    "question": "It ______, so we didn't need our umbrellas.",
+    "options": [
+      "wasn't rained",
+      "wasn't rain",
+      "didn't raining",
+      "wasn't raining"
+    ],
+    "correctIndices": [
+      3
+    ]
+  },
+  {
+    "id": "5.2",
+    "units": "24",
+    "topic": "Regular and irregular verbs",
+    "difficulty": "⭐⭐ Medium",
+    "rule": "Present perfect: has/have + past participle. Break → broken (NOT broke).",
+    "example": "✓ has broken (present perfect)\n✗ has broke (wrong form)",
+    "question": "Somebody ______ this window.",
+    "options": [
+      "has broke",
+      "has broken",
+      "has breaked",
+      "has break"
+    ],
+    "correctIndices": [
+      1
+    ]
+  },
+  {
+    "id": "6.1",
+    "units": "25",
+    "topic": "What are you doing tomorrow?",
+    "difficulty": "⭐⭐ Medium",
+    "rule": "Use present continuous (am/is/are + verb-ing) for definite future plans.",
+    "example": "✓ Andrew is playing football tomorrow. (definite plan)\n✗ Andrew play football tomorrow. (needs future form)",
+    "question": "Andrew ______ football tomorrow.",
+    "options": [
+      "is playing",
+      "play",
+      "plays",
+      "a play"
+    ],
+    "correctIndices": [
+      0
+    ]
+  },
+  {
+    "id": "6.2",
+    "units": "25",
+    "topic": "What are you doing tomorrow?",
+    "difficulty": "⭐⭐ Medium",
+    "rule": "Use \"Are you going...?\" for questions about future plans.",
+    "example": "✓ Are you going to Ocean Park tonight?\n✗ Do you go to Ocean Park tonight? (not for future plans)",
+    "question": "______ to Ocean Park tonight?",
+    "options": [
+      "Are you going",
+      "Are you go",
+      "Do you go",
+      "Go you",
+      "Do you going"
+    ],
+    "correctIndices": [
+      0
+    ]
+  },
+  {
+    "id": "6.3",
+    "units": "25",
+    "topic": "What are you doing tomorrow?",
+    "difficulty": "⭐⭐ Medium",
+    "rule": "Use present simple for timetables/schedules (starts, begins, opens).",
+    "example": "✓ The film starts at 7:30. (timetable)\n✗ The film is starting at 7:30. (unusual for timetable)",
+    "question": "'What time is the film tonight?' 'It ______ at 7:30.'",
+    "options": [
+      "is start",
+      "is starting",
+      "starts",
+      "start",
+      "starting"
+    ],
+    "correctIndices": [
+      2
+    ]
+  },
+  {
+    "id": "6.4",
+    "units": "26",
+    "topic": "I'm going to...",
+    "difficulty": "⭐⭐ Medium",
+    "rule": "Use \"going to + verb\" for future intentions and plans.",
+    "example": "✓ What are you going to bring?\n✗ What do you bring? (not clear it's future)",
+    "question": "What ______ to the school picnic next week?",
+    "options": [
+      "are you bringing",
+      "are you going to bring",
+      "do you bring",
+      "you are going to bring"
+    ],
+    "correctIndices": [
+      1
+    ]
+  },
+  {
+    "id": "6.5",
+    "units": "27",
+    "topic": "will (1)",
+    "difficulty": "⭐⭐ Medium",
+    "rule": "Use \"will + verb\" for predictions.",
+    "example": "✓ Kelly will pass the test. (prediction)\n✗ Kelly passes the test. (wrong for future prediction)",
+    "question": "I think Kelly ______ the spelling test.",
+    "options": [
+      "will be open",
+      "will open",
+      "will opening",
+      "will openssing"
+    ],
+    "correctIndices": [
+      1
+    ]
+  },
+  {
+    "id": "6.6",
+    "units": "27",
+    "topic": "will (1)",
+    "difficulty": "⭐⭐ Medium",
+    "rule": "Use present continuous (NOT will) when the plan is already decided.",
+    "example": "✓ We're going to Victoria Peak. (already decided)\n✗ We'll go to Victoria Peak. (sounds like deciding now)",
+    "question": "______ to Victoria Peak on Saturday. Do you want to come with us?",
+    "options": [
+      "We go",
+      "We'll go",
+      "We're going",
+      "We will going"
+    ],
+    "correctIndices": [
+      2
+    ]
+  },
+  {
+    "id": "6.7",
+    "units": "28",
+    "topic": "will (2)",
+    "difficulty": "⭐⭐ Medium",
+    "rule": "Use \"I'll\" (I will) when you decide at the moment of speaking.",
+    "example": "✓ I'll call you tomorrow. (deciding now)\n✗ I'm calling you tomorrow. (sounds already planned)",
+    "question": "'______ you tomorrow, OK?' 'OK, bye.'",
+    "options": [
+      "I call",
+      "I calling",
+      "I'm calling",
+      "I'll call"
+    ],
+    "correctIndices": [
+      3
+    ]
+  },
+  {
+    "id": "6.8",
+    "units": "28",
+    "topic": "will (2)",
+    "difficulty": "⭐⭐ Medium",
+    "rule": "Use present continuous for fixed arrangements.",
+    "example": "✓ I'm studying tomorrow. (arranged already)\n✗ I'll study tomorrow. (sounds like deciding now)",
+    "question": "______ tomorrow, so I can't play with you.",
+    "options": [
+      "I study",
+      "I'll study",
+      "I'm studying",
+      "I'll studying"
+    ],
+    "correctIndices": [
+      2
+    ]
+  },
+  {
+    "id": "6.9",
+    "units": "28",
+    "topic": "will (2)",
+    "difficulty": "⭐⭐ Medium",
+    "rule": "Use \"Shall we...?\" for suggestions.",
+    "example": "✓ Shall we go to the playground?\n✗ Do we go to the playground? (not for suggestions)",
+    "question": "It's a nice day. ______ to the playground?",
+    "options": [
+      "Do we go",
+      "Shall we go",
+      "Are we go",
+      "We go",
+      "Go we"
+    ],
+    "correctIndices": [
+      1
+    ]
+  },
+  {
+    "id": "7.1",
+    "units": "29",
+    "topic": "might",
+    "difficulty": "⭐⭐ Medium",
+    "rule": "Use \"might/may\" for possibilities (not sure).",
+    "example": "✓ I might go. (possible, not sure)\n✓ I may go. (same meaning)",
+    "question": "______ to the swimming pool this evening, but I'm not sure.",
+    "options": [
+      "I'll go",
+      "I'm going",
+      "I may go",
+      "I might go"
+    ],
+    "correctIndices": [
+      2,
+      3
+    ]
+  },
+  {
+    "id": "7.2",
+    "units": "29, 30",
+    "topic": "might + can and could",
+    "difficulty": "⭐⭐ Medium",
+    "rule": "Use \"Can I...?\" or \"May I...?\" to ask for permission politely.",
+    "example": "✓ Can I sit here?\n✓ May I sit here? (more formal)",
+    "question": "'______ here?' 'Yes, of course.'",
+    "options": [
+      "Can I sit",
+      "Do I sit",
+      "May I sit",
+      "Can I to sit"
+    ],
+    "correctIndices": [
+      0,
+      2
+    ]
+  },
+  {
+    "id": "7.3",
+    "units": "30",
+    "topic": "can and could",
+    "difficulty": "⭐⭐ Medium",
+    "rule": "Use \"can't\" (NOT couldn't) for present/future inability.",
+    "example": "✓ They can't come next week. (future)\n✗ They couldn't come next week. (wrong tense)",
+    "question": "I'm having a birthday party next week, but Paul and Rachel ______.",
+    "options": [
+      "can't come",
+      "can't to come",
+      "can't coming",
+      "couldn't come"
+    ],
+    "correctIndices": [
+      0
+    ]
+  },
+  {
+    "id": "7.4",
+    "units": "30",
+    "topic": "can and could",
+    "difficulty": "⭐⭐ Medium",
+    "rule": "Use \"couldn't\" (NOT can't) for past inability.",
+    "example": "✓ She couldn't speak Cantonese before. (past)\n✗ She can't speak Cantonese before. (wrong tense)",
+    "question": "Before Maria came to Hong Kong, she ______ speak Cantonese.",
+    "options": [
+      "can",
+      "can't",
+      "not",
+      "couldn't",
+      "doesn't"
+    ],
+    "correctIndices": [
+      3
+    ]
+  },
+  {
+    "id": "7.5",
+    "units": "31, 33",
+    "topic": "must and can't + have to and must",
+    "difficulty": "⭐⭐⭐ Hard",
+    "rule": "Use \"had to\" (NOT must) for past obligation.",
+    "example": "✓ We had to walk home. (past obligation)\n✗ We must walk home. (present, not past)",
+    "question": "We ______ walk home last night. The MTR had stopped running.",
+    "options": [
+      "have to",
+      "had to",
+      "must",
+      "must to",
+      "must have"
+    ],
+    "correctIndices": [
+      1
+    ]
+  },
+  {
+    "id": "7.6",
+    "units": "31",
+    "topic": "must and can't",
+    "difficulty": "⭐⭐ Medium",
+    "rule": "Use \"don't need to\" to say something is not necessary.",
+    "example": "✓ I don't need to go yet.\n✗ I mustn't go yet. (means \"I must not go\", different meaning!)",
+    "question": "______ go yet. I can stay a little longer.",
+    "options": [
+      "must",
+      "mustn't",
+      "must not",
+      "don't need",
+      "don't need to"
+    ],
+    "correctIndices": [
+      3,
+      4
+    ]
+  },
+  {
+    "id": "7.7",
+    "units": "32",
+    "topic": "should",
+    "difficulty": "⭐⭐ Medium",
+    "rule": "Use \"should\" or \"ought to\" for advice (both correct!).",
+    "example": "✓ You should watch it. (advice)\n✓ You ought to watch it. (same meaning)",
+    "question": "It's a great film. You ______ go and watch it.",
+    "options": [
+      "should to",
+      "ought to",
+      "ought",
+      "should",
+      "need"
+    ],
+    "correctIndices": [
+      1,
+      3
+    ]
+  },
+  {
+    "id": "7.8",
+    "units": "33",
+    "topic": "have to and must",
+    "difficulty": "⭐⭐ Medium",
+    "rule": "Questions with \"have to\": Do you have to...? (NOT Have you to...?)",
+    "example": "✓ What time do you have to go?\n✗ What time have you to go? (wrong question form)",
+    "question": "What time ______ go to your piano lesson tomorrow?",
+    "options": [
+      "you must",
+      "you have to",
+      "have you to",
+      "do you have to"
+    ],
+    "correctIndices": [
+      3
+    ]
+  },
+  {
+    "id": "7.9",
+    "units": "33",
+    "topic": "have to and must",
+    "difficulty": "⭐⭐⭐ Hard",
+    "rule": "Past negative: didn't have to (NOT hadn't to).",
+    "example": "✓ We didn't have to wait long. (past)\n✗ We hadn't to wait long. (not standard English)",
+    "question": "We ______ wait long for the bus - it came in a few minutes.",
+    "options": [
+      "don't have to",
+      "hadn't to",
+      "didn't have to",
+      "didn't had to",
+      "mustn't"
+    ],
+    "correctIndices": [
+      2
+    ]
+  },
+  {
+    "id": "7.10",
+    "units": "34",
+    "topic": "Would you like...? I'd like...",
+    "difficulty": "⭐⭐ Medium",
+    "rule": "Use \"Would you like...?\" for polite offers.",
+    "example": "✓ Would you like some bubble tea? (polite offer)\n✗ Do you like bubble tea? (asking about general preference)",
+    "question": "'______ some bubble tea?' 'No, thank you.'",
+    "options": [
+      "Are you liking",
+      "You like",
+      "Would you like",
+      "Do you like"
+    ],
+    "correctIndices": [
+      2
+    ]
+  },
+  {
+    "id": "7.11",
+    "units": "35",
+    "topic": "Do this! Don't do that! Let's do this!",
+    "difficulty": "⭐ Easy",
+    "rule": "Negative imperative: Don't + verb.",
+    "example": "✓ Please don't go.\n✗ Please you don't go. (no subject in imperatives)",
+    "question": "Please ______ Stay here with me.",
+    "options": [
+      "don't go",
+      "you no go",
+      "go not",
+      "you don't go"
+    ],
+    "correctIndices": [
+      0
+    ]
+  },
+  {
+    "id": "7.12",
+    "units": "36",
+    "topic": "I used to...",
+    "difficulty": "⭐⭐ Medium",
+    "rule": "Use \"used to + verb\" for past habits (not now).",
+    "example": "✓ He used to work at a toy shop. (past, not now)\n✗ He use to work. (needs \"-d\": used)",
+    "question": "Dave ______ at a toy store. Now he works at a bookshop.",
+    "options": [
+      "working",
+      "works",
+      "worked",
+      "use to work",
+      "used to work"
+    ],
+    "correctIndices": [
+      4
+    ]
+  },
+  {
+    "id": "8.1",
+    "units": "37",
+    "topic": "there is, there are",
+    "difficulty": "⭐ Easy",
+    "rule": "Questions with \"there\": Is there...? (NOT Has there...?)",
+    "example": "✓ Is there a 7-Eleven near here?\n✗ Has there a 7-Eleven? (wrong form)",
+    "question": "Excuse me, ______ a 7-Eleven near here?",
+    "options": [
+      "has there",
+      "is there",
+      "there is",
+      "is it"
+    ],
+    "correctIndices": [
+      1
+    ]
+  },
+  {
+    "id": "8.2",
+    "units": "37",
+    "topic": "there is, there are",
+    "difficulty": "⭐ Easy",
+    "rule": "Use \"There are\" (NOT They are) for plural things that exist.",
+    "example": "✓ There are lots of children at the playground.\n✗ They are lots of children. (wrong for existence)",
+    "question": "______ lots of children at the playground. It's very crowded.",
+    "options": [
+      "Have",
+      "It has",
+      "There have",
+      "They are",
+      "There are"
+    ],
+    "correctIndices": [
+      4
+    ]
+  },
+  {
+    "id": "8.3",
+    "units": "38",
+    "topic": "there was/were, there has/have been",
+    "difficulty": "⭐ Easy",
+    "rule": "Use \"there wasn't\" (NOT it wasn't) for things that didn't exist.",
+    "example": "✓ There wasn't anything to eat.\n✗ It wasn't anything to eat. (wrong form)",
+    "question": "I was hungry when I got home, but ______ anything to eat.",
+    "options": [
+      "there wasn't",
+      "there weren't",
+      "it wasn't",
+      "there hasn't been"
+    ],
+    "correctIndices": [
+      0
+    ]
+  },
+  {
+    "id": "8.4",
+    "units": "39",
+    "topic": "It...",
+    "difficulty": "⭐ Easy",
+    "rule": "Use \"It's\" (NOT There is) for distance.",
+    "example": "✓ It's two kilometres from here to school.\n✗ There is two kilometres. (wrong for distance)",
+    "question": "______ two kilometres from our flat to the school.",
+    "options": [
+      "It's",
+      "It has",
+      "There is",
+      "There are"
+    ],
+    "correctIndices": [
+      0
+    ]
+  },
+  {
+    "id": "8.5",
+    "units": "39",
+    "topic": "It...",
+    "difficulty": "⭐ Easy",
+    "rule": "Use \"Is it true...?\" (NOT Is there true...?) for facts.",
+    "example": "✓ Is it true that you're moving?\n✗ Is there true? (wrong form)",
+    "question": "______ true that you're moving to Kowloon?",
+    "options": [
+      "Is there",
+      "Is it",
+      "Is",
+      "Are you"
+    ],
+    "correctIndices": [
+      1
+    ]
+  },
+  {
+    "id": "9.1",
+    "units": "40",
+    "topic": "I am, I don't etc.",
+    "difficulty": "⭐⭐ Medium",
+    "rule": "Short answers: has/have (NOT is) for \"have got\".",
+    "example": "✓ My brother has. (he's got one)\n✗ My brother is. (wrong auxiliary)",
+    "question": "I haven't got a skateboard, but my brother ______.",
+    "options": [
+      "have",
+      "is",
+      "has",
+      "hasn't",
+      "has got"
+    ],
+    "correctIndices": [
+      4
+    ]
+  },
+  {
+    "id": "9.2",
+    "units": "40",
+    "topic": "I am, I don't etc.",
+    "difficulty": "⭐⭐ Medium",
+    "rule": "Short answers with \"like\": does (NOT is).",
+    "example": "✓ Sue does. (she likes them)\n✗ Sue is. (wrong for \"like\")",
+    "question": "I don't like rainy days, but Sue ______.",
+    "options": [
+      "does",
+      "doesn't",
+      "do",
+      "does like",
+      "likes"
+    ],
+    "correctIndices": [
+      0
+    ]
+  },
+  {
+    "id": "9.3",
+    "units": "41",
+    "topic": "Have you? Are you? Don't you? etc.",
+    "difficulty": "⭐⭐ Medium",
+    "rule": "Question tags for interest: Did she? (past)",
+    "example": "✓ 'She won the spelling bee.' 'Did she?' (showing interest)\n✗ 'She won.' 'Has she?' (wrong tense)",
+    "question": "'Nicola won the spelling bee last week.' '______? Really?'",
+    "options": [
+      "Is she?",
+      "Won she?",
+      "Did she?",
+      "Has she?"
+    ],
+    "correctIndices": [
+      2
+    ]
+  },
+  {
+    "id": "9.4",
+    "units": "41",
+    "topic": "Have you? Are you? Don't you? etc.",
+    "difficulty": "⭐⭐ Medium",
+    "rule": "Question tags: haven't you? (NOT have you?) after positive.",
+    "example": "✓ You haven't met my teacher, have you? (negative, positive tag)\n✗ You haven't met my teacher, haven't you? (both negative = wrong)",
+    "question": "You haven't met my teacher, ______?",
+    "options": [
+      "haven't you",
+      "have you",
+      "did you",
+      "you have",
+      "you haven't"
+    ],
+    "correctIndices": [
+      1
+    ]
+  },
+  {
+    "id": "9.5",
+    "units": "42",
+    "topic": "too, either, so am I, neither do I etc.",
+    "difficulty": "⭐⭐ Medium",
+    "rule": "Use \"either\" (NOT too) after negative sentences.",
+    "example": "✓ He doesn't read comics either. (after negative)\n✗ He doesn't read comics too. (use \"either\" not \"too\")",
+    "question": "Ben doesn't watch cartoons. He doesn't read comic books ______.",
+    "options": [
+      "too",
+      "either",
+      "neither",
+      "never"
+    ],
+    "correctIndices": [
+      1
+    ]
+  },
+  {
+    "id": "9.6",
+    "units": "42",
+    "topic": "too, either, so am I, neither do I etc.",
+    "difficulty": "⭐⭐⭐ Hard",
+    "rule": "Agreement with \"would\": So would I (NOT So do I).",
+    "example": "✓ 'I'd like to go.' 'So would I.' (matching \"would\")\n✗ 'I'd like to go.' 'So do I.' (wrong auxiliary)",
+    "question": "'I'd like to go to Disneyland.' '______.'",
+    "options": [
+      "So do I.",
+      "So am I.",
+      "So would I.",
+      "Neither do I.",
+      "So I would."
+    ],
+    "correctIndices": [
+      2
+    ]
+  },
+  {
+    "id": "9.7",
+    "units": "43",
+    "topic": "isn't, haven't, don't etc. (negatives)",
+    "difficulty": "⭐ Easy",
+    "rule": "Use \"doesn't do\" (NOT doesn't) for action verbs.",
+    "example": "✓ She doesn't do much. (action = \"do\")\n✗ She doesn't much. (needs verb)",
+    "question": "Sue ______ much on weekends.",
+    "options": [
+      "don't",
+      "doesn't",
+      "don't do",
+      "doesn't do"
+    ],
+    "correctIndices": [
+      3
+    ]
+  },
+  {
+    "id": "10.1",
+    "units": "44",
+    "topic": "is it...? have you...? do they...? etc.",
+    "difficulty": "⭐⭐⭐ Hard",
+    "rule": "Passive questions: When was... + past participle?",
+    "example": "✓ When was the MTR opened? (passive)\n✗ When did the MTR open? (active, different meaning)",
+    "question": "'When ______?' 'I'm not sure. More than 50 years ago.'",
+    "options": [
+      "did the MTR open",
+      "has the MTR opened",
+      "was opened the MTR",
+      "was the MTR opened",
+      "the MTR was opened"
+    ],
+    "correctIndices": [
+      3
+    ]
+  },
+  {
+    "id": "10.2",
+    "units": "44",
+    "topic": "is it...? have you...? do they...? etc.",
+    "difficulty": "⭐⭐ Medium",
+    "rule": "Use \"did you do\" (NOT just did you) for \"how\" questions.",
+    "example": "✓ How did you do that? (action = do)\n✗ How did you that? (needs verb)",
+    "question": "'I hurt my knee last week.' 'How ______ that?'",
+    "options": [
+      "did you",
+      "you did",
+      "you did do",
+      "did you do"
+    ],
+    "correctIndices": [
+      3
+    ]
+  },
+  {
+    "id": "10.3",
+    "units": "44",
+    "topic": "is it...? have you...? do they...? etc.",
+    "difficulty": "⭐⭐ Medium",
+    "rule": "Negative questions: Why didn't you...? (NOT Why you didn't...?)",
+    "example": "✓ Why didn't you phone me?\n✗ Why you didn't phone me? (wrong order)",
+    "question": "Why ______ me last night? I was waiting for you to call.",
+    "options": [
+      "didn't you phone",
+      "you not phone",
+      "you don't phone",
+      "you didn't phone"
+    ],
+    "correctIndices": [
+      0
+    ]
+  },
+  {
+    "id": "10.4",
+    "units": "45",
+    "topic": "Who saw you? Who did you see?",
+    "difficulty": "⭐⭐⭐ Hard",
+    "rule": "When \"who\" is the subject: no \"do/does\" needed.",
+    "example": "✓ Who lives in this flat? (subject = who)\n✗ Who does live in this flat? (don't need \"does\")",
+    "question": "'Who ______ in this flat?' 'I don't know.'",
+    "options": [
+      "lives",
+      "does live",
+      "does lives",
+      "living"
+    ],
+    "correctIndices": [
+      0
+    ]
+  },
+  {
+    "id": "10.5",
+    "units": "46",
+    "topic": "What...? Which...? How...?",
+    "difficulty": "⭐⭐ Medium",
+    "rule": "\"What\" questions: What did + subject + verb?",
+    "example": "✓ What did Paul say?\n✗ What said Paul? (need \"did\" before subject)",
+    "question": "What ______ when you told him the joke?",
+    "options": [
+      "said Paul",
+      "did Paul say",
+      "Paul said",
+      "did Paul said"
+    ],
+    "correctIndices": [
+      1
+    ]
+  },
+  {
+    "id": "10.6",
+    "units": "46",
+    "topic": "What...? Which...? How...?",
+    "difficulty": "⭐⭐⭐ Hard",
+    "rule": "Preposition at end: Which hospital is he in? (British style)",
+    "example": "✓ Which hospital is he in?\n✓ In which hospital is he? (very formal)",
+    "question": "'Tom's dad is at the hospital.' '______?'",
+    "options": [
+      "In which hospital he is?",
+      "In which hospital is he?",
+      "Which hospital he is in?",
+      "Which hospital is he in?"
+    ],
+    "correctIndices": [
+      3
+    ]
+  },
+  {
+    "id": "10.7",
+    "units": "46",
+    "topic": "What...? Which...? How...?",
+    "difficulty": "⭐⭐ Medium",
+    "rule": "Use \"What was... like?\" to ask for description.",
+    "example": "✓ What was the weather like?\n✗ How was the weather like? (don't use \"how\" + \"like\")",
+    "question": "Did you have a nice trip? ______?",
+    "options": [
+      "How was the weather like?",
+      "What was the weather like?",
+      "What the weather was like?",
+      "Was the weather like?"
+    ],
+    "correctIndices": [
+      1
+    ]
+  },
+  {
+    "id": "10.8",
+    "units": "47",
+    "topic": "How long does it take...?",
+    "difficulty": "⭐ Easy",
+    "rule": "Use \"Who is...?\" to compare two people.",
+    "example": "✓ Who is taller - Ben or Gary?\n✗ What is taller? (use \"who\" for people)",
+    "question": "______ taller - Ben or Gary?",
+    "options": [
+      "Who is",
+      "What is",
+      "Which is",
+      "Who has"
+    ],
+    "correctIndices": [
+      0
+    ]
+  },
+  {
+    "id": "10.9",
+    "units": "47, 75",
+    "topic": "How long does it take...? + one/ones",
+    "difficulty": "⭐⭐ Medium",
+    "rule": "Use \"Which one?\" (NOT just \"Which?\") when pointing to specific things.",
+    "example": "✓ Which one is yours? (one = pencil)\n✓ Which is yours? (also acceptable)",
+    "question": "There are four pencils here. ______ is yours?",
+    "options": [
+      "What",
+      "Who",
+      "Which",
+      "How",
+      "Which one"
+    ],
+    "correctIndices": [
+      4
+    ]
+  },
+  {
+    "id": "10.10",
+    "units": "48",
+    "topic": "How long does it take...?",
+    "difficulty": "⭐⭐ Medium",
+    "rule": "Use \"How long does it take...?\" for duration questions.",
+    "example": "✓ How long does it take to get to Stanley?\n✗ How long does it want? (wrong verb)",
+    "question": "How long ______ to get to Stanley by bus?",
+    "options": [
+      "is it",
+      "does it need",
+      "does it take",
+      "does it want"
+    ],
+    "correctIndices": [
+      2
+    ]
+  },
+  {
+    "id": "10.11",
+    "units": "49",
+    "topic": "Do you know where...? I don't know what... etc.",
+    "difficulty": "⭐⭐⭐ Hard",
+    "rule": "In indirect questions: subject + verb (NOT verb + subject).",
+    "example": "✓ I don't remember what Kate was wearing. (normal order)\n✗ I don't remember what was Kate wearing. (wrong order)",
+    "question": "I don't remember what ______ at the party.",
+    "options": [
+      "Kate was wearing",
+      "was wearing Kate",
+      "was Kate wearing"
+    ],
+    "correctIndices": [
+      0
+    ]
+  },
+  {
+    "id": "10.12",
+    "units": "49",
+    "topic": "Do you know where...? I don't know what... etc.",
+    "difficulty": "⭐⭐⭐ Hard",
+    "rule": "Use \"if\" or \"whether\" (both OK) for yes/no embedded questions.",
+    "example": "✓ Do you know if Jack is at home?\n✓ Do you know whether Jack is at home? (same meaning)",
+    "question": "'Do you know ______?' 'Yes, I think so.'",
+    "options": [
+      "if Jack is at home",
+      "is Jack at home",
+      "whether Jack is at home",
+      "that Jack is at home"
+    ],
+    "correctIndices": [
+      0,
+      2
+    ]
+  },
+  {
+    "id": "11.1",
+    "units": "50",
+    "topic": "She said that... He told me that...",
+    "difficulty": "⭐⭐⭐⭐ Very Hard",
+    "rule": "Reported speech: will → would in the past report.",
+    "example": "✓ He said (that) he would call. (will → would)\n✗ He said he will call. (needs \"would\" not \"will\")",
+    "question": "I saw Steve a week ago. He said that ______ me, but he didn't.",
+    "options": [
+      "he call",
+      "he calls",
+      "he'll call",
+      "he's going to call",
+      "he would call"
+    ],
+    "correctIndices": [
+      4
+    ]
+  },
+  {
+    "id": "11.2",
+    "units": "50",
+    "topic": "She said that... He told me that...",
+    "difficulty": "⭐⭐⭐⭐ Very Hard",
+    "rule": "Use \"said (that)\" OR \"told me\" (NOT said me).",
+    "example": "✓ He said (that) he was tired. (said + that)\n✓ He told me he was tired. (told + me)\n✗ He said me he was tired. (can't use \"said me\")",
+    "question": "'Why did Tim go to bed so early?' 'He ______.'",
+    "options": [
+      "said he was tired",
+      "said that he was tired",
+      "said me he was tired",
+      "told me he was tired",
+      "told that he was tired"
+    ],
+    "correctIndices": [
+      0,
+      1,
+      3
+    ]
+  },
+  {
+    "id": "12.1",
+    "units": "51",
+    "topic": "work/working, go/going, do/doing",
+    "difficulty": "⭐ Easy",
+    "rule": "After \"shouldn't\": use verb (NOT -ing).",
+    "example": "✓ You shouldn't do so much homework. (verb)\n✗ You shouldn't doing homework. (no -ing after shouldn't)",
+    "question": "You shouldn't ______ so much homework at once.",
+    "options": [
+      "doing",
+      "do",
+      "to do",
+      "did"
+    ],
+    "correctIndices": [
+      1
+    ]
+  },
+  {
+    "id": "12.2",
+    "units": "51",
+    "topic": "work/working, go/going, do/doing",
+    "difficulty": "⭐ Easy",
+    "rule": "After \"have to\": use verb (NOT to go, NOT going).",
+    "example": "✓ I have to go now. (have to + verb)\n✗ I have to going now. (no -ing after \"have to\")",
+    "question": "It's late. I ______ now.",
+    "options": [
+      "must to go",
+      "have go",
+      "have to going",
+      "have to go"
+    ],
+    "correctIndices": [
+      3
+    ]
+  },
+  {
+    "id": "12.3",
+    "units": "52",
+    "topic": "to... (I want to do) and -ing (I enjoy doing)",
+    "difficulty": "⭐⭐ Medium",
+    "rule": "After \"decide\": use \"to + verb\" (NOT -ing).",
+    "example": "✓ She decided to sell her toys. (to + verb)\n✗ She decided selling her toys. (wrong form)",
+    "question": "Tina has decided ______ her old toys.",
+    "options": [
+      "sell",
+      "to sell",
+      "selling",
+      "to selling"
+    ],
+    "correctIndices": [
+      1
+    ]
+  },
+  {
+    "id": "12.4",
+    "units": "52",
+    "topic": "to... (I want to do) and -ing (I enjoy doing)",
+    "difficulty": "⭐⭐ Medium",
+    "rule": "After \"don't mind\": use verb + -ing.",
+    "example": "✓ I don't mind waking up early. (verb + -ing)\n✗ I don't mind to wake up early. (wrong form)",
+    "question": "I don't mind ______ early.",
+    "options": [
+      "wake up",
+      "to wake up",
+      "waking up",
+      "to waking up"
+    ],
+    "correctIndices": [
+      2
+    ]
+  },
+  {
+    "id": "12.5",
+    "units": "52",
+    "topic": "to... (I want to do) and -ing (I enjoy doing)",
+    "difficulty": "⭐⭐ Medium",
+    "rule": "After \"like\": can use \"to + verb\" OR \"verb + -ing\" (both OK!).",
+    "example": "✓ Do you like to wake up early? (to + verb)\n✓ Do you like waking up early? (verb + -ing)\nBoth are correct!",
+    "question": "Do you like ______ early?",
+    "options": [
+      "wake up",
+      "to wake up",
+      "waking up",
+      "to waking up"
+    ],
+    "correctIndices": [
+      1,
+      2
+    ]
+  },
+  {
+    "id": "12.6",
+    "units": "53",
+    "topic": "I want you to... I told you to...",
+    "difficulty": "⭐⭐ Medium",
+    "rule": "Pattern: want + person + to + verb.",
+    "example": "✓ Do you want me to help you? (want + me + to + help)\n✗ Do you want me help you? (missing \"to\")",
+    "question": "Do you want ______ you with your homework?",
+    "options": [
+      "me help",
+      "me helping",
+      "me to help",
+      "that I help"
+    ],
+    "correctIndices": [
+      2
+    ]
+  },
+  {
+    "id": "12.7",
+    "units": "53",
+    "topic": "I want you to... I told you to...",
+    "difficulty": "⭐⭐ Medium",
+    "rule": "After \"make\": use verb (NOT to + verb).",
+    "example": "✓ He makes me laugh. (verb only)\n✗ He makes me to laugh. (no \"to\" after make)",
+    "question": "He's so funny. He makes ______.",
+    "options": [
+      "me laugh",
+      "me laughing",
+      "me to laugh",
+      "that I laugh"
+    ],
+    "correctIndices": [
+      0
+    ]
+  },
+  {
+    "id": "12.8",
+    "units": "54",
+    "topic": "I went to the shop to buy...",
+    "difficulty": "⭐⭐ Medium",
+    "rule": "Use \"to + verb\" to show purpose (why you went).",
+    "example": "✓ She went to get some snacks. (purpose)\n✗ She went for get some snacks. (use \"to\" not \"for\")",
+    "question": "Paula went to the shop ______ some snacks.",
+    "options": [
+      "for get",
+      "for to get",
+      "for getting",
+      "to get",
+      "get"
+    ],
+    "correctIndices": [
+      3
+    ]
+  },
+  {
+    "id": "13.1",
+    "units": "55",
+    "topic": "go to..., go on..., go for..., go -ing",
+    "difficulty": "⭐⭐ Medium",
+    "rule": "Use \"go for a swim\" OR \"go swimming\" (both OK!).",
+    "example": "✓ Let's go for a swim.\n✓ Let's go swimming.\n✗ Let's for a swim. (needs \"go\")",
+    "question": "It's a nice day. Let's ______ for a swim.",
+    "options": [
+      "for a swim",
+      "on a swim",
+      "to swimming",
+      "swimming"
+    ],
+    "correctIndices": [
+      3
+    ]
+  },
+  {
+    "id": "13.2",
+    "units": "56",
+    "topic": "get",
+    "difficulty": "⭐ Easy",
+    "rule": "Use \"get better\" (NOT have/make better) for health.",
+    "example": "✓ I hope she gets better soon. (health)\n✗ I hope she makes better. (wrong verb)",
+    "question": "I'm sorry your grandma is ill. I hope she ______ better soon.",
+    "options": [
+      "has",
+      "makes",
+      "gets",
+      "goes"
+    ],
+    "correctIndices": [
+      2
+    ]
+  },
+  {
+    "id": "13.3",
+    "units": "56",
+    "topic": "get",
+    "difficulty": "⭐⭐ Medium",
+    "rule": "Use \"get in/into\" for vehicles you enter.",
+    "example": "✓ Kate got into the minibus. (entered)\n✗ Kate went into the minibus. (not standard for vehicles)",
+    "question": "Kate ______ the minibus and went to school.",
+    "options": [
+      "went into",
+      "went in",
+      "got in",
+      "got into"
+    ],
+    "correctIndices": [
+      3
+    ]
+  },
+  {
+    "id": "13.4",
+    "units": "57",
+    "topic": "do and make",
+    "difficulty": "⭐⭐ Medium",
+    "rule": "Use \"do\" (NOT make) for actions.",
+    "example": "✓ I'll do it. (action)\n✗ I'll make it. (different meaning - creating something)",
+    "question": "'Shall I open the door?' 'No, it's OK. I'll ______.'",
+    "options": [
+      "do",
+      "make",
+      "get",
+      "open"
+    ],
+    "correctIndices": [
+      0,
+      3
+    ]
+  },
+  {
+    "id": "13.5",
+    "units": "57",
+    "topic": "do and make",
+    "difficulty": "⭐⭐ Medium",
+    "rule": "Use \"make\" (NOT do) with \"a mistake\".",
+    "example": "✓ I made a mistake. (fixed expression)\n✗ I did a mistake. (wrong verb)",
+    "question": "I'm sorry. I ______ a mistake on my test.",
+    "options": [
+      "did",
+      "made",
+      "got",
+      "had"
+    ],
+    "correctIndices": [
+      1
+    ]
+  },
+  {
+    "id": "13.6",
+    "units": "58",
+    "topic": "have",
+    "difficulty": "⭐ Easy",
+    "rule": "Use \"Did you have...?\" for past experiences.",
+    "example": "✓ Did you have a good time? (past)\n✗ Have you a good time? (wrong question form)",
+    "question": "______ a good time at Disneyland?' 'Yes, it was awesome!'",
+    "options": [
+      "Have you",
+      "Had you",
+      "Do you have",
+      "Did you have"
+    ],
+    "correctIndices": [
+      3
+    ]
+  },
+  {
+    "id": "14.1",
+    "units": "59, 62",
+    "topic": "I/me, he/him, they/them etc. + I, me, my, mine",
+    "difficulty": "⭐ Easy",
+    "rule": "After \"have\": use \"it\" (NOT them) for singular things.",
+    "example": "✓ You can have it. (singular sticker)\n✗ You can have them. (plural, wrong for one sticker)",
+    "question": "I don't want this sticker. You can have ______.",
+    "options": [
+      "it",
+      "them",
+      "her",
+      "him"
+    ],
+    "correctIndices": [
+      0
+    ]
+  },
+  {
+    "id": "14.2",
+    "units": "59, 62",
+    "topic": "I/me, he/him, they/them etc. + I, me, my, mine",
+    "difficulty": "⭐ Easy",
+    "rule": "Use \"them\" (NOT they) after \"with\".",
+    "example": "✓ Do you want to go with them? (object)\n✗ Do you want to go with they? (use \"them\" not \"they\")",
+    "question": "Sue and Kevin are going swimming. Do you want to go with ______?",
+    "options": [
+      "they",
+      "them",
+      "their",
+      "theirs"
+    ],
+    "correctIndices": [
+      1
+    ]
+  },
+  {
+    "id": "14.3",
+    "units": "60, 62",
+    "topic": "my/his/their etc. + I, me, my, mine",
+    "difficulty": "⭐ Easy",
+    "rule": "Use \"her\" (NOT his/their) for a female person.",
+    "example": "✓ I don't know her sister. (Amy's sister)\n✗ I don't know his sister. (wrong gender)",
+    "question": "I know Amy, but I don't know ______ sister.",
+    "options": [
+      "their",
+      "his",
+      "she",
+      "her"
+    ],
+    "correctIndices": [
+      3
+    ]
+  },
+  {
+    "id": "14.4",
+    "units": "60",
+    "topic": "my/his/their etc.",
+    "difficulty": "⭐⭐ Medium",
+    "rule": "Use \"its\" (NOT it's) for possession. It's = it is.",
+    "example": "✓ Hong Kong is famous for its skyline. (possession)\n✗ Hong Kong is famous for it's skyline. (it's = it is, wrong!)",
+    "question": "Hong Kong is famous for ______ skyline.",
+    "options": [
+      "his",
+      "its",
+      "it's",
+      "she's"
+    ],
+    "correctIndices": [
+      1
+    ]
+  },
+  {
+    "id": "14.5",
+    "units": "61, 62",
+    "topic": "Whose is this? It's mine/yours/hers etc. + I, me, my, mine",
+    "difficulty": "⭐⭐ Medium",
+    "rule": "Use \"hers\" when not followed by a noun.",
+    "example": "✓ Sarah gave me hers. (no noun after)\n✓ Sarah gave me her eraser. (noun after = use \"her\")",
+    "question": "I didn't have a rubber, so Sarah gave me ______.",
+    "options": [
+      "her",
+      "hers",
+      "her rubber",
+      "she's"
+    ],
+    "correctIndices": [
+      1,
+      2
+    ]
+  },
+  {
+    "id": "14.6",
+    "units": "61, 62",
+    "topic": "Whose is this? It's mine/yours/hers etc. + I, me, my, mine",
+    "difficulty": "⭐⭐ Medium",
+    "rule": "Use \"mine\" (NOT my) after \"of\".",
+    "example": "✓ a friend of mine (possessive)\n✗ a friend of my (use \"mine\" not \"my\")",
+    "question": "I went out to meet a friend of ______.",
+    "options": [
+      "mine",
+      "my",
+      "me",
+      "I"
+    ],
+    "correctIndices": [
+      0
+    ]
+  },
+  {
+    "id": "14.7",
+    "units": "63",
+    "topic": "myself/yourself/themselves etc.",
+    "difficulty": "⭐⭐ Medium",
+    "rule": "Use \"ourselves\" (NOT us) to mean \"we enjoyed ourselves\".",
+    "example": "✓ We enjoyed ourselves. (reflexive)\n✗ We enjoyed us. (wrong form)",
+    "question": "We had fun at the beach. We enjoyed ______.",
+    "options": [
+      "us",
+      "our",
+      "ours",
+      "ourself",
+      "ourselves"
+    ],
+    "correctIndices": [
+      4
+    ]
+  },
+  {
+    "id": "14.8",
+    "units": "63",
+    "topic": "myself/yourself/themselves etc.",
+    "difficulty": "⭐⭐ Medium",
+    "rule": "Use \"each other\" (NOT themselves) for two people doing to each other.",
+    "example": "✓ They know each other well. (one knows the other)\n✗ They know themselves well. (different meaning - self-knowledge)",
+    "question": "Kate and Helen are best friends. They know ______ well.",
+    "options": [
+      "each other",
+      "them",
+      "themselves",
+      "theirselves"
+    ],
+    "correctIndices": [
+      0
+    ]
+  },
+  {
+    "id": "16.1",
+    "units": "74",
+    "topic": "this/that/these/those",
+    "difficulty": "⭐ Easy",
+    "rule": "Use \"that's\" (NOT this is) to respond to news.",
+    "example": "✓ 'I'm going to the park.' 'Oh, that's nice!'\n✗ 'I'm going to the park.' 'This is nice!' (sounds strange)",
+    "question": "'I'm going to the park next week.' 'Oh, ______ nice!'",
+    "options": [
+      "it's",
+      "this is",
+      "that's"
+    ],
+    "correctIndices": [
+      2
+    ]
+  },
+  {
+    "id": "16.2",
+    "units": "75",
+    "topic": "one/ones",
+    "difficulty": "⭐⭐ Medium",
+    "rule": "Use \"one\" to avoid repeating the noun.",
+    "example": "✓ There's one at the end of the street. (one = playground)\n✗ There's it at the end. (doesn't replace noun properly)",
+    "question": "'Is there a playground near here?' 'Yes, there's ______ at the end of this street.'",
+    "options": [
+      "some",
+      "it",
+      "one",
+      "a one"
+    ],
+    "correctIndices": [
+      2
+    ]
+  },
+  {
+    "id": "16.3",
+    "units": "75",
+    "topic": "one/ones",
+    "difficulty": "⭐⭐ Medium",
+    "rule": "Use \"a new one\" to replace countable singular noun.",
+    "example": "✓ Can I have a new one? (one = pencil)\n✗ Can I have a new? (needs \"one\")",
+    "question": "This pencil is broken. Can I have ______?",
+    "options": [
+      "a new one",
+      "a new",
+      "new",
+      "a new"
+    ],
+    "correctIndices": [
+      0
+    ]
+  },
+  {
+    "id": "16.4",
+    "units": "76",
+    "topic": "some and any",
+    "difficulty": "⭐ Easy",
+    "rule": "Use \"some\" (NOT any) in positive sentences.",
+    "example": "✓ I'm going to buy some school supplies. (positive)\n✗ I'm going to buy any school supplies. (use \"some\")",
+    "question": "I'm going shopping. I'm going to buy ______ school supplies.",
+    "options": [
+      "any",
+      "some",
+      "a"
+    ],
+    "correctIndices": [
+      1
+    ]
+  },
+  {
+    "id": "16.5",
+    "units": "76",
+    "topic": "some and any",
+    "difficulty": "⭐ Easy",
+    "rule": "Use \"any\" (NOT some) in negative sentences.",
+    "example": "✓ I don't have any. (negative)\n✗ I don't have some. (use \"any\" in negative)",
+    "question": "'Where's your backpack?' 'I don't have ______.'",
+    "options": [
+      "one",
+      "some",
+      "any"
+    ],
+    "correctIndices": [
+      2
+    ]
+  },
+  {
+    "id": "16.6",
+    "units": "77, 78",
+    "topic": "not + any, no, none + not + anybody/anyone/anything, nobody/no-one/nothing",
+    "difficulty": "⭐⭐ Medium",
+    "rule": "Can use \"have no\" OR \"don't have any\" (both mean the same!).",
+    "example": "✓ They have no pets. (no + noun)\n✓ They don't have any pets. (not... any)",
+    "question": "Tracy and Jeff ______ pets.",
+    "options": [
+      "have no",
+      "haven't no",
+      "don't have any",
+      "have any"
+    ],
+    "correctIndices": [
+      0,
+      2
+    ]
+  },
+  {
+    "id": "16.7",
+    "units": "77",
+    "topic": "not + any, no, none",
+    "difficulty": "⭐⭐ Medium",
+    "rule": "Use \"None\" (NOT No) when answering \"How much/many\".",
+    "example": "✓ 'How much money?' 'None.' (no money)\n✗ 'How much money?' 'No.' (use \"None\" not \"No\")",
+    "question": "'How much pocket money do you have?' '______.'",
+    "options": [
+      "No",
+      "No-one",
+      "Any",
+      "None"
+    ],
+    "correctIndices": [
+      3
+    ]
+  },
+  {
+    "id": "16.8",
+    "units": "78, 79",
+    "topic": "not + anybody/anyone/anything, nobody/no-one/nothing + somebody/anything/nowhere etc.",
+    "difficulty": "⭐⭐ Medium",
+    "rule": "Use \"nobody\" OR \"no-one\" (both OK!) when subject of sentence.",
+    "example": "✓ There is nobody in the classroom. (subject)\n✓ There is no-one in the classroom. (same)",
+    "question": "There is ______ in the classroom. It's empty.",
+    "options": [
+      "anybody",
+      "nobody",
+      "anyone",
+      "no-one"
+    ],
+    "correctIndices": [
+      1,
+      3
+    ]
+  },
+  {
+    "id": "16.9",
+    "units": "78, 79",
+    "topic": "not + anybody/anyone/anything, nobody/no-one/nothing + somebody/anything/nowhere etc.",
+    "difficulty": "⭐⭐ Medium",
+    "rule": "Use \"Nothing\" (NOT Anything) for short negative answers.",
+    "example": "✓ 'What did you say?' 'Nothing.' (I said nothing)\n✗ 'What did you say?' 'Anything.' (doesn't make sense)",
+    "question": "'What did you say?' '______.'",
+    "options": [
+      "Nothing",
+      "Nobody",
+      "Anything",
+      "Not anything"
+    ],
+    "correctIndices": [
+      0,
+      3
+    ]
+  },
+  {
+    "id": "16.10",
+    "units": "79",
+    "topic": "somebody/anything/nowhere etc.",
+    "difficulty": "⭐⭐ Medium",
+    "rule": "Use \"something to eat\" (NOT for eat).",
+    "example": "✓ I want something to eat. (to + verb)\n✗ I want something for eat. (use \"to\" not \"for\")",
+    "question": "I'm hungry. I want ______.",
+    "options": [
+      "something for eat",
+      "something to eat",
+      "something for eating"
+    ],
+    "correctIndices": [
+      1
+    ]
+  },
+  {
+    "id": "16.11",
+    "units": "80",
+    "topic": "every and all",
+    "difficulty": "⭐ Easy",
+    "rule": "Use \"every\" + singular noun (NOT plural).",
+    "example": "✓ every evening (singular)\n✗ every evenings (don't use plural after \"every\")",
+    "question": "Ben watches TV for about two hours ______.",
+    "options": [
+      "all evening",
+      "all evenings",
+      "all the evenings",
+      "every evenings",
+      "every evening"
+    ],
+    "correctIndices": [
+      4
+    ]
+  },
+  {
+    "id": "16.12",
+    "units": "80",
+    "topic": "every and all",
+    "difficulty": "⭐⭐ Medium",
+    "rule": "\"Everybody/Everyone\" is singular, so use \"needs\" (NOT need).",
+    "example": "✓ Everyone needs friends. (singular verb)\n✗ Everyone need friends. (missing -s)",
+    "question": "______ need friends.",
+    "options": [
+      "Everybody need",
+      "Everybody needs",
+      "Everyone need",
+      "Everyone needs"
+    ],
+    "correctIndices": [
+      1,
+      3
+    ]
+  },
+  {
+    "id": "16.13",
+    "units": "81",
+    "topic": "all, most, some, any, no/none",
+    "difficulty": "⭐⭐ Medium",
+    "rule": "Use \"Most\" (NOT Most of) before plural noun without \"the\".",
+    "example": "✓ Most children like games. (no \"the\")\n✗ The most children. (use \"the\" for superlative only)",
+    "question": "______ children like playing games.",
+    "options": [
+      "Most",
+      "The most",
+      "Most of"
+    ],
+    "correctIndices": [
+      0
+    ]
+  },
+  {
+    "id": "16.14",
+    "units": "82",
+    "topic": "both, either, neither",
+    "difficulty": "⭐⭐ Medium",
+    "rule": "Can use \"both\" OR \"both of\" before those/these (both OK!).",
+    "example": "✓ I like both those toys.\n✓ I like both of those toys. (same meaning)",
+    "question": "I like ______ those toys.",
+    "options": [
+      "both",
+      "both of",
+      "either",
+      "either of"
+    ],
+    "correctIndices": [
+      0,
+      1
+    ]
+  },
+  {
+    "id": "16.15",
+    "units": "82",
+    "topic": "both, either, neither",
+    "difficulty": "⭐⭐ Medium",
+    "rule": "Can use \"either\" OR \"either of\" before these/those (both OK!).",
+    "example": "✓ I haven't read either these books.\n✓ I haven't read either of these books. (same)",
+    "question": "I haven't read ______ these books.",
+    "options": [
+      "neither",
+      "neither of",
+      "either",
+      "either of"
+    ],
+    "correctIndices": [
+      2,
+      3
+    ]
+  },
+  {
+    "id": "16.16",
+    "units": "83",
+    "topic": "a lot, much, many",
+    "difficulty": "⭐⭐ Medium",
+    "rule": "Can use \"a lot of\" OR \"many\" with plural countable nouns (both OK!).",
+    "example": "✓ Do you have many classmates?\n✓ Do you have a lot of classmates? (same)",
+    "question": "Do you have ______ classmates?",
+    "options": [
+      "a lot of",
+      "much",
+      "many",
+      "a lot"
+    ],
+    "correctIndices": [
+      0,
+      2
+    ]
+  },
+  {
+    "id": "16.17",
+    "units": "83",
+    "topic": "a lot, much, many",
+    "difficulty": "⭐⭐ Medium",
+    "rule": "Use \"a lot\" (NOT a lot of) without a noun after it.",
+    "example": "✓ We go to the cinema a lot. (no noun after)\n✗ We go a lot of. (needs noun OR drop \"of\")",
+    "question": "We like films, so we go to the cinema ______.",
+    "options": [
+      "a lot of",
+      "a lot",
+      "much",
+      "many"
+    ],
+    "correctIndices": [
+      1
+    ]
+  },
+  {
+    "id": "16.18",
+    "units": "84",
+    "topic": "(a) little, (a) few",
+    "difficulty": "⭐⭐⭐ Hard",
+    "rule": "Use \"few\" (NOT little) with countable plural nouns.",
+    "example": "✓ There were few people. (countable)\n✗ There were little people. (use \"few\" for countable)",
+    "question": "There were ______ people at the beach. It was nearly empty.",
+    "options": [
+      "a little",
+      "few",
+      "little",
+      "a few of"
+    ],
+    "correctIndices": [
+      1
+    ]
+  },
+  {
+    "id": "16.19",
+    "units": "84",
+    "topic": "(a) little, (a) few",
+    "difficulty": "⭐⭐⭐ Hard",
+    "rule": "\"A little\" = some (positive meaning) with uncountable nouns.",
+    "example": "✓ They have a little money. (some money = positive)\n✗ They have little money. (almost no money = negative)",
+    "question": "They have ______ pocket money, so they're not poor.",
+    "options": [
+      "a little",
+      "a few",
+      "few",
+      "little",
+      "little of"
+    ],
+    "correctIndices": [
+      0
+    ]
+  },
+  {
+    "id": "17.1",
+    "units": "85",
+    "topic": "old/nice/interesting etc. (adjectives)",
+    "difficulty": "⭐ Easy",
+    "rule": "Put adjective BEFORE noun in English.",
+    "example": "✓ foreign languages (adjective + noun)\n✗ languages foreign (wrong order)",
+    "question": "I don't speak any ______.",
+    "options": [
+      "foreign languages",
+      "languages foreign",
+      "languages foreigns"
+    ],
+    "correctIndices": [
+      0
+    ]
+  },
+  {
+    "id": "17.2",
+    "units": "86",
+    "topic": "quickly/badly/suddenly etc. (adverbs)",
+    "difficulty": "⭐ Easy",
+    "rule": "Use adverb (quickly) to describe HOW you do something.",
+    "example": "✓ He ate quickly. (adverb)\n✗ He ate quick. (adjective, wrong form)",
+    "question": "He ate his lunch very ______.",
+    "options": [
+      "quick",
+      "quicker",
+      "quickly"
+    ],
+    "correctIndices": [
+      2
+    ]
+  },
+  {
+    "id": "17.3",
+    "units": "86",
+    "topic": "quickly/badly/suddenly etc. (adverbs)",
+    "difficulty": "⭐⭐ Medium",
+    "rule": "Use \"well\" (NOT good) as adverb for \"speak\".",
+    "example": "✓ You speak English very well. (adverb)\n✗ You speak English very good. (adjective, wrong)",
+    "question": "You speak English very ______.",
+    "options": [
+      "good",
+      "fluent",
+      "well",
+      "slow"
+    ],
+    "correctIndices": [
+      2
+    ]
+  },
+  {
+    "id": "17.4",
+    "units": "87",
+    "topic": "old/older, expensive/more expensive",
+    "difficulty": "⭐⭐ Medium",
+    "rule": "Put \"bigger\" (comparative) BEFORE noun.",
+    "example": "✓ a bigger room (comparative + noun)\n✗ a more big room (wrong form)",
+    "question": "Helen wants ______.",
+    "options": [
+      "a more big room",
+      "a room more big",
+      "a room bigger",
+      "a bigger room"
+    ],
+    "correctIndices": [
+      3
+    ]
+  },
+  {
+    "id": "17.5",
+    "units": "89",
+    "topic": "not as... as",
+    "difficulty": "⭐⭐ Medium",
+    "rule": "Comparative of bad = worse (NOT more bad).",
+    "example": "✓ I feel worse. (comparative of bad)\n✗ I feel more bad. (wrong form)",
+    "question": "'Do you feel better today?' 'No, I feel ______.'",
+    "options": [
+      "good",
+      "worse",
+      "more bad",
+      "more worse"
+    ],
+    "correctIndices": [
+      1
+    ]
+  },
+  {
+    "id": "17.6",
+    "units": "88",
+    "topic": "than...",
+    "difficulty": "⭐ Easy",
+    "rule": "Use \"than\" (NOT as/that/of) after comparatives.",
+    "example": "✓ The Peak is higher than Kowloon Peak. (comparative + than)\n✗ The Peak is higher as Kowloon Peak. (use \"than\")",
+    "question": "The Peak is higher ______ Kowloon Peak.",
+    "options": [
+      "as",
+      "than",
+      "that",
+      "of"
+    ],
+    "correctIndices": [
+      1
+    ]
+  },
+  {
+    "id": "17.7",
+    "units": "88",
+    "topic": "than...",
+    "difficulty": "⭐⭐ Medium",
+    "rule": "Can use \"than him\" OR \"than he can\" after comparative (both OK!).",
+    "example": "✓ I can run faster than him. (informal)\n✓ I can run faster than he can. (formal, complete)",
+    "question": "I can run faster ______.",
+    "options": [
+      "than him",
+      "that he can",
+      "than he can",
+      "as he can",
+      "as he"
+    ],
+    "correctIndices": [
+      0,
+      2
+    ]
+  },
+  {
+    "id": "17.8",
+    "units": "89",
+    "topic": "not as... as",
+    "difficulty": "⭐⭐ Medium",
+    "rule": "Use \"as popular as\" for comparisons (NOT popular than).",
+    "example": "✓ Swimming isn't as popular as football.\n✗ Swimming isn't popular than football. (need \"as...as\")",
+    "question": "Swimming isn't ______ football.",
+    "options": [
+      "popular as",
+      "popular than",
+      "as popular as",
+      "so popular that"
+    ],
+    "correctIndices": [
+      2
+    ]
+  },
+  {
+    "id": "17.9",
+    "units": "89",
+    "topic": "not as... as",
+    "difficulty": "⭐⭐ Medium",
+    "rule": "Use \"the same as\" for equality (NOT like/than).",
+    "example": "✓ The weather today is the same as yesterday.\n✗ The weather today is like yesterday. (informal, less precise)",
+    "question": "The weather today is the same ______ yesterday.",
+    "options": [
+      "as",
+      "that",
+      "than",
+      "like"
+    ],
+    "correctIndices": [
+      0
+    ]
+  },
+  {
+    "id": "17.10",
+    "units": "90",
+    "topic": "the oldest, the most expensive",
+    "difficulty": "⭐⭐⭐ Hard",
+    "rule": "Superlative: \"the most popular attraction\" (adjective AFTER \"the most\").",
+    "example": "✓ the most popular attraction (the most + adjective + noun)\n✗ the attraction most popular (wrong order)",
+    "question": "'The Peak Tram is ______ in Hong Kong.'",
+    "options": [
+      "the more popular attraction",
+      "the most popular attraction",
+      "the attraction most popular",
+      "the attraction the more popular",
+      "the attraction more popular"
+    ],
+    "correctIndices": [
+      1
+    ]
+  },
+  {
+    "id": "17.11",
+    "units": "90",
+    "topic": "the oldest, the most expensive",
+    "difficulty": "⭐⭐⭐ Hard",
+    "rule": "Superlative of bad = worst (NOT baddest/most bad).",
+    "example": "✓ the worst film (superlative of bad)\n✗ the baddest film (wrong form)",
+    "question": "'The film was terrible. I think it's ______ film I've ever seen.'",
+    "options": [
+      "worse",
+      "baddest",
+      "most bad",
+      "worst",
+      "more worse"
+    ],
+    "correctIndices": [
+      3
+    ]
+  },
+  {
+    "id": "17.12",
+    "units": "91",
+    "topic": "enough",
+    "difficulty": "⭐⭐ Medium",
+    "rule": "Put \"enough\" AFTER noun (enough money, NOT money enough).",
+    "example": "✓ You've got enough money. (enough + noun)\n✗ You've got money enough. (wrong order)",
+    "question": "Why don't you buy the toy? You've got ______.",
+    "options": [
+      "enough money",
+      "money enough",
+      "enough of money"
+    ],
+    "correctIndices": [
+      0
+    ]
+  },
+  {
+    "id": "17.13",
+    "units": "91",
+    "topic": "enough",
+    "difficulty": "⭐⭐⭐ Hard",
+    "rule": "Pattern: adjective + enough + to + verb.",
+    "example": "✓ good enough to have (adjective + enough + to)\n✗ enough good to have (wrong order)",
+    "question": "Is your English ______ a conversation?",
+    "options": [
+      "enough good to have",
+      "good enough for have",
+      "enough good for",
+      "good enough to have"
+    ],
+    "correctIndices": [
+      3
+    ]
+  },
+  {
+    "id": "17.14",
+    "units": "92",
+    "topic": "too",
+    "difficulty": "⭐⭐ Medium",
+    "rule": "Pattern: too + adjective + to + verb.",
+    "example": "✓ too tired to go (too + adjective + to + verb)\n✗ too tired for go (use \"to\" not \"for\")",
+    "question": "I'm ______ out.",
+    "options": [
+      "too tired for go",
+      "too much tired for going",
+      "too tired to go",
+      "too much tired to go"
+    ],
+    "correctIndices": [
+      2
+    ]
+  },
+  {
+    "id": "18.1",
+    "units": "93",
+    "topic": "He speaks English very well. (word order 1)",
+    "difficulty": "⭐⭐ Medium",
+    "rule": "Word order: subject + verb + object + time.",
+    "example": "✓ Sue bought some new shoes yesterday. (object before time)\n✗ Sue bought yesterday some new shoes. (time in wrong place)",
+    "question": "Sue ______. They're very expensive.",
+    "options": [
+      "bought yesterday some new shoes",
+      "bought some new shoes yesterday",
+      "yesterday bought some new shoes"
+    ],
+    "correctIndices": [
+      1
+    ]
+  },
+  {
+    "id": "18.2",
+    "units": "94",
+    "topic": "always/usually/often etc. (word order 2)",
+    "difficulty": "⭐ Easy",
+    "rule": "Put frequency words BEFORE main verb.",
+    "example": "✓ I always drink milk tea. (always before verb)\n✗ I drink always milk tea. (wrong position)",
+    "question": "______ milk tea in the morning.",
+    "options": [
+      "I drink always",
+      "Always I drink",
+      "I always drink"
+    ],
+    "correctIndices": [
+      2
+    ]
+  },
+  {
+    "id": "18.3",
+    "units": "94",
+    "topic": "always/usually/often etc. (word order 2)",
+    "difficulty": "⭐⭐ Medium",
+    "rule": "With \"be\": put frequency words AFTER \"am/is/are\".",
+    "example": "✓ They are never at home. (after \"are\")\n✗ They never are at home. (should be after \"are\")",
+    "question": "______ during the day.",
+    "options": [
+      "They are at home never",
+      "They are never at home",
+      "They never are at home",
+      "Never they are at home"
+    ],
+    "correctIndices": [
+      1
+    ]
+  },
+  {
+    "id": "18.4",
+    "units": "95",
+    "topic": "still, yet, already",
+    "difficulty": "⭐⭐ Medium",
+    "rule": "Use \"yet\" (NOT already) in negative sentences.",
+    "example": "✓ She isn't here yet. (negative + yet)\n✗ She isn't here already. (use \"yet\" in negative)",
+    "question": "'Where's Emma?' 'She ______.'",
+    "options": [
+      "isn't here yet",
+      "isn't here already",
+      "isn't yet still"
+    ],
+    "correctIndices": [
+      0
+    ]
+  },
+  {
+    "id": "18.5",
+    "units": "96",
+    "topic": "Give me that book! Give it to me!",
+    "difficulty": "⭐⭐ Medium",
+    "rule": "Can use \"gave Sarah the book\" OR \"gave the book to Sarah\" (both OK!).",
+    "example": "✓ I gave Sarah the book.\n✓ I gave the book to Sarah. (both correct!)",
+    "question": "I found the book and I gave ______.",
+    "options": [
+      "Sarah the book",
+      "to Sarah the book",
+      "the book Sarah",
+      "the book to Sarah"
+    ],
+    "correctIndices": [
+      0,
+      3
+    ]
+  },
+  {
+    "id": "19.1",
+    "units": "98",
+    "topic": "When...",
+    "difficulty": "⭐⭐⭐ Hard",
+    "rule": "After \"when\" (future meaning): use present (NOT will).",
+    "example": "✓ when I have more time (present for future after \"when\")\n✗ when I'll have more time (don't use \"will\" after \"when\")",
+    "question": "I can't talk to you now. I'll talk to you later when ______ more time.",
+    "options": [
+      "I'll have",
+      "I had",
+      "I have",
+      "I'm going to have"
+    ],
+    "correctIndices": [
+      2
+    ]
+  },
+  {
+    "id": "19.2",
+    "units": "99",
+    "topic": "If we go..., If you see... etc.",
+    "difficulty": "⭐⭐⭐ Hard",
+    "rule": "After \"if\" (Type 1): use present (NOT will).",
+    "example": "✓ If I'm late... (present after \"if\")\n✗ If I'll be late... (don't use \"will\" after \"if\")",
+    "question": "If ______ late this evening, don't wait for me.",
+    "options": [
+      "if I'm",
+      "if I'll be",
+      "when I'm",
+      "when I'll be"
+    ],
+    "correctIndices": [
+      0,
+      2
+    ]
+  },
+  {
+    "id": "19.3",
+    "units": "100",
+    "topic": "If I had..., If we went... etc.",
+    "difficulty": "⭐⭐⭐⭐ Very Hard",
+    "rule": "Type 2 conditional: If + past, ... would + verb.",
+    "example": "✓ If I knew, I'd tell you. (imaginary situation)\n✗ If I know, I'd tell you. (need past tense after \"if\")",
+    "question": "I don't know the answer. If I ______ the answer, I'd tell you.",
+    "options": [
+      "know",
+      "would know",
+      "have known",
+      "knew"
+    ],
+    "correctIndices": [
+      3
+    ]
+  },
+  {
+    "id": "19.4",
+    "units": "100",
+    "topic": "If I had..., If we went... etc.",
+    "difficulty": "⭐⭐⭐⭐ Very Hard",
+    "rule": "Type 2: Use \"wasn't\" (NOT isn't) after \"if\" for unreal situations.",
+    "example": "✓ If it wasn't expensive, I'd buy it. (unreal/imaginary)\n✗ If it isn't expensive... (real situation, different meaning)",
+    "question": "I like this game. I'd buy it if it ______ so expensive.",
+    "options": [
+      "isn't",
+      "won't be",
+      "wouldn't be",
+      "wasn't",
+      "id bought"
+    ],
+    "correctIndices": [
+      3
+    ]
+  },
+  {
+    "id": "19.5",
+    "units": "101",
+    "topic": "a person who..., a thing that/which... (relative clauses 1)",
+    "difficulty": "⭐⭐⭐ Hard",
+    "rule": "Use \"that\" OR \"which\" for things (both OK!). NOT \"who\" for things.",
+    "example": "✓ a flat that is near the MTR (thing)\n✓ a flat which is near the MTR (same)\n✗ a flat who is... (use \"who\" only for people)",
+    "question": "Emma lives in a flat ______ is near the MTR station.",
+    "options": [
+      "who",
+      "that",
+      "which",
+      "it",
+      "what"
+    ],
+    "correctIndices": [
+      1,
+      2
+    ]
+  },
+  {
+    "id": "19.6",
+    "units": "101",
+    "topic": "a person who..., a thing that/which... (relative clauses 1)",
+    "difficulty": "⭐⭐⭐ Hard",
+    "rule": "Use \"who\" OR \"that\" for people (both OK!).",
+    "example": "✓ children who go to my school (people)\n✓ children that go to my school (same)",
+    "question": "The children ______ go to my school are very friendly.",
+    "options": [
+      "who",
+      "that",
+      "they",
+      "which",
+      "what"
+    ],
+    "correctIndices": [
+      0,
+      1
+    ]
+  },
+  {
+    "id": "19.7",
+    "units": "102",
+    "topic": "the people we met, the hotel you stayed at (relative clauses 2)",
+    "difficulty": "⭐⭐⭐ Hard",
+    "rule": "Can omit \"that/which\" when it's the object of the clause.",
+    "example": "✓ the toys you wanted (omitting \"that\")\n✓ the toys that you wanted (with \"that\")\nBoth are correct!",
+    "question": "Did you find the toys ______?",
+    "options": [
+      "who you wanted",
+      "that you wanted",
+      "what you wanted",
+      "you wanted",
+      "you wanted it"
+    ],
+    "correctIndices": [
+      1,
+      3
+    ]
+  },
+  {
+    "id": "19.8",
+    "units": "102",
+    "topic": "the people we met, the hotel you stayed at (relative clauses 2)",
+    "difficulty": "⭐⭐⭐ Hard",
+    "rule": "Use \"who\" (NOT which/she) for people in relative clauses.",
+    "example": "✓ a teacher who can speak four languages\n✗ a teacher which can... (use \"who\" for people)",
+    "question": "I met ______ can speak four languages.",
+    "options": [
+      "a teacher who",
+      "a teacher which",
+      "a teacher",
+      "a teacher she"
+    ],
+    "correctIndices": [
+      0
+    ]
+  },
+  {
+    "id": "20.1",
+    "units": "103",
+    "topic": "at 8 o'clock, on Monday, in April etc.",
+    "difficulty": "⭐ Easy",
+    "rule": "Use \"on\" before days of the week.",
+    "example": "✓ See you on Friday! (on + day)\n✗ See you in Friday! (use \"on\" not \"in\")",
+    "question": "Bye! I'll see you ______.",
+    "options": [
+      "until Friday",
+      "at Friday",
+      "in Friday",
+      "on Friday"
+    ],
+    "correctIndices": [
+      3
+    ]
+  },
+  {
+    "id": "20.2",
+    "units": "103",
+    "topic": "at 8 o'clock, on Monday, in April etc.",
+    "difficulty": "⭐ Easy",
+    "rule": "Use \"in\" before period of time (minutes, hours, days).",
+    "example": "✓ The bus leaves in five minutes. (future time)\n✗ The bus leaves at five minutes. (use \"in\" for duration)",
+    "question": "Hurry! The school bus leaves ______ five minutes.",
+    "options": [
+      "at",
+      "on",
+      "from",
+      "after",
+      "in"
+    ],
+    "correctIndices": [
+      4
+    ]
+  },
+  {
+    "id": "20.3",
+    "units": "104",
+    "topic": "from... to, until, since, for",
+    "difficulty": "⭐⭐ Medium",
+    "rule": "Use \"until\" OR \"till\" (both OK!) to mean \"up to that time\".",
+    "example": "✓ I'll be away until Monday. (up to Monday)\n✓ I'll be away till Monday. (same meaning)",
+    "question": "'How long will you be away?' '______ Monday.'",
+    "options": [
+      "On",
+      "To",
+      "Until",
+      "Till",
+      "Since"
+    ],
+    "correctIndices": [
+      2,
+      3
+    ]
+  },
+  {
+    "id": "20.4",
+    "units": "105",
+    "topic": "before, after, during, while",
+    "difficulty": "⭐⭐ Medium",
+    "rule": "Use \"for\" + period of time.",
+    "example": "✓ We played for two hours. (duration)\n✗ We played during two hours. (use \"for\" with duration)",
+    "question": "We played football yesterday. We played ______ two hours.",
+    "options": [
+      "in",
+      "for",
+      "since",
+      "during"
+    ],
+    "correctIndices": [
+      1
+    ]
+  },
+  {
+    "id": "20.5",
+    "units": "105",
+    "topic": "before, after, during, while",
+    "difficulty": "⭐⭐ Medium",
+    "rule": "After \"before\": use verb + -ing (NOT to + verb).",
+    "example": "✓ before going to school (verb + -ing)\n✗ before to go to school (don't use \"to\")",
+    "question": "I always have breakfast before ______ to school.",
+    "options": [
+      "I go",
+      "go",
+      "to go",
+      "going"
+    ],
+    "correctIndices": [
+      0,
+      3
+    ]
+  },
+  {
+    "id": "20.6",
+    "units": "106",
+    "topic": "in, at, on (places 1)",
+    "difficulty": "⭐⭐ Medium",
+    "rule": "Use \"at\" for position (at the top, at the bottom).",
+    "example": "✓ Write your name at the top. (position)\n✗ Write your name on the top. (different meaning)",
+    "question": "Write your name ______ the top of the page.",
+    "options": [
+      "at",
+      "on",
+      "in",
+      "to"
+    ],
+    "correctIndices": [
+      0,
+      1
+    ]
+  },
+  {
+    "id": "20.7",
+    "units": "106",
+    "topic": "in, at, on (places 1)",
+    "difficulty": "⭐⭐ Medium",
+    "rule": "Use \"in\" for things surrounded by something.",
+    "example": "✓ There are monkeys in those trees. (surrounded by branches)\n✗ There are monkeys on those trees. (sounds like surface)",
+    "question": "There are lots of monkeys ______ those trees.",
+    "options": [
+      "at",
+      "on",
+      "in",
+      "to"
+    ],
+    "correctIndices": [
+      2
+    ]
+  },
+  {
+    "id": "20.8",
+    "units": "107",
+    "topic": "in, at, on (places 2)",
+    "difficulty": "⭐ Easy",
+    "rule": "Use \"in\" before \"the world\".",
+    "example": "✓ the tallest building in the world\n✗ the tallest building on the world (use \"in\")",
+    "question": "What's the tallest building ______ the world?",
+    "options": [
+      "at",
+      "on",
+      "in",
+      "of"
+    ],
+    "correctIndices": [
+      2
+    ]
+  },
+  {
+    "id": "20.9",
+    "units": "107",
+    "topic": "in, at, on (places 2)",
+    "difficulty": "⭐⭐ Medium",
+    "rule": "Use \"on\" before \"floor\".",
+    "example": "✓ on the second floor\n✗ in the second floor (use \"on\")",
+    "question": "The library is ______ the second floor.",
+    "options": [
+      "at",
+      "on",
+      "in",
+      "to"
+    ],
+    "correctIndices": [
+      1
+    ]
+  },
+  {
+    "id": "20.10",
+    "units": "108",
+    "topic": "to, in, at (places 3)",
+    "difficulty": "⭐⭐ Medium",
+    "rule": "Use \"at\" before \"party/meeting/event\".",
+    "example": "✓ I met lots of kids at the party. (event)\n✗ I met kids in the party. (use \"at\")",
+    "question": "I met a lot of kids ______ the birthday party.",
+    "options": [
+      "on",
+      "to",
+      "in",
+      "at"
+    ],
+    "correctIndices": [
+      3
+    ]
+  },
+  {
+    "id": "20.11",
+    "units": "108",
+    "topic": "to, in, at (places 3)",
+    "difficulty": "⭐ Easy",
+    "rule": "Use \"to\" (NOT in/at) after \"go\" before places.",
+    "example": "✓ I want to go to Japan. (movement)\n✗ I want to go in Japan. (use \"to\")",
+    "question": "I want to go ______ Japan next year.",
+    "options": [
+      "at",
+      "on",
+      "in",
+      "to"
+    ],
+    "correctIndices": [
+      3
+    ]
+  },
+  {
+    "id": "20.12",
+    "units": "108",
+    "topic": "to, in, at (places 3)",
+    "difficulty": "⭐⭐ Medium",
+    "rule": "Use \"at\" after \"arrive\" before specific places.",
+    "example": "✓ arrive at Ocean Park (specific place)\n✗ arrive to Ocean Park (use \"at\" not \"to\")",
+    "question": "What time did you arrive ______ Ocean Park?",
+    "options": [
+      "at",
+      "on",
+      "in",
+      "to"
+    ],
+    "correctIndices": [
+      0
+    ]
+  },
+  {
+    "id": "20.13",
+    "units": "109",
+    "topic": "under, behind, opposite etc.",
+    "difficulty": "⭐⭐ Medium",
+    "rule": "Use \"in front of\" (NOT at front of).",
+    "example": "✓ He's in front of Laura. (in front of)\n✗ He's at front of Laura. (need \"in\" not \"at\")",
+    "question": "'Where is David in this photo?' 'He's ______ Laura.'",
+    "options": [
+      "at front of",
+      "in the front of",
+      "in front of",
+      "in front from"
+    ],
+    "correctIndices": [
+      2
+    ]
+  },
+  {
+    "id": "20.14",
+    "units": "110",
+    "topic": "up, over, through etc.",
+    "difficulty": "⭐⭐ Medium",
+    "rule": "Use \"over\" to mean \"going above and across\".",
+    "example": "✓ I jumped over the fence. (above and across)\n✗ I jumped on the fence. (different meaning - onto surface)",
+    "question": "I jumped ______ the fence into the playground.",
+    "options": [
+      "on",
+      "through",
+      "across",
+      "over",
+      "above"
+    ],
+    "correctIndices": [
+      3
+    ]
+  },
+  {
+    "id": "20.15",
+    "units": "111",
+    "topic": "on, at, by, with, about",
+    "difficulty": "⭐⭐ Medium",
+    "rule": "British English: use \"on holiday\" (NOT in holiday).",
+    "example": "✓ She's on holiday. (British)\n✗ She's in holiday. (use \"on\")",
+    "question": "Jane isn't at school this week. She's ______ holiday.",
+    "options": [
+      "on",
+      "in",
+      "for",
+      "to",
+      "at"
+    ],
+    "correctIndices": [
+      0
+    ]
+  },
+  {
+    "id": "20.16",
+    "units": "111",
+    "topic": "on, at, by, with, about",
+    "difficulty": "⭐⭐ Medium",
+    "rule": "Use \"by\" + transport (NOT with/in).",
+    "example": "✓ by the MTR (transport method)\n✗ with the MTR (use \"by\")",
+    "question": "Do you like travelling ______ the MTR?",
+    "options": [
+      "with train",
+      "with the MTR",
+      "in the MTR",
+      "to the MTR",
+      "by"
+    ],
+    "correctIndices": [
+      4
+    ]
+  },
+  {
+    "id": "20.17",
+    "units": "112",
+    "topic": "afraid of..., good at... etc. (prepositions) + -ing",
+    "difficulty": "⭐⭐ Medium",
+    "rule": "Use \"good at\" + verb-ing.",
+    "example": "✓ I'm good at telling stories. (at + -ing)\n✗ I'm good on telling stories. (use \"at\" not \"on\")",
+    "question": "I'm not very good ______ telling stories.",
+    "options": [
+      "on",
+      "with",
+      "at",
+      "in",
+      "for"
+    ],
+    "correctIndices": [
+      2
+    ]
+  },
+  {
+    "id": "20.18",
+    "units": "112",
+    "topic": "afraid of..., good at... etc. (prepositions) + -ing",
+    "difficulty": "⭐⭐ Medium",
+    "rule": "After \"without\": use verb + -ing (NOT to + verb).",
+    "example": "✓ without saying goodbye (verb + -ing)\n✗ without to say goodbye (don't use \"to\")",
+    "question": "Tom left without ______ goodbye.",
+    "options": [
+      "say",
+      "saying",
+      "to say",
+      "that he said"
+    ],
+    "correctIndices": [
+      1
+    ]
+  },
+  {
+    "id": "20.19",
+    "units": "113",
+    "topic": "listen to..., look at... etc. (verb + preposition)",
+    "difficulty": "⭐ Easy",
+    "rule": "Use \"phone\" + person (NO \"to\" needed in modern English).",
+    "example": "✓ I have to phone my parents. (no preposition)\n✗ I have to phone to my parents. (don't need \"to\")",
+    "question": "I have to phone ______ today.",
+    "options": [
+      "with my parents",
+      "to my parents",
+      "at my parents",
+      "my parents"
+    ],
+    "correctIndices": [
+      3
+    ]
+  },
+  {
+    "id": "20.20",
+    "units": "113",
+    "topic": "listen to..., look at... etc. (verb + preposition)",
+    "difficulty": "⭐⭐ Medium",
+    "rule": "Use \"depends on\" (NOT depends of/in).",
+    "example": "✓ It depends on the restaurant. (depends on)\n✗ It depends of the restaurant. (use \"on\" not \"of\")",
+    "question": "'Do you like eating dim sum?' 'It depends ______ the restaurant.'",
+    "options": [
+      "in",
+      "at",
+      "of",
+      "on",
+      "over"
+    ],
+    "correctIndices": [
+      3
+    ]
+  },
+  {
+    "id": "21.1",
+    "units": "114",
+    "topic": "go in, fall off, run away etc. (phrasal verbs 1)",
+    "difficulty": "⭐⭐ Medium",
+    "rule": "Use \"get off\" for leaving buses/trains.",
+    "example": "✓ A student got off the bus. (leaving)\n✗ A student got out the bus. (need \"of\" or use \"off\")",
+    "question": "The bus stopped and a student got ______.",
+    "options": [
+      "off",
+      "down",
+      "out",
+      "out of"
+    ],
+    "correctIndices": [
+      0
+    ]
+  },
+  {
+    "id": "21.2",
+    "units": "115",
+    "topic": "put on your shoes, put your shoes on (phrasal verbs 2)",
+    "difficulty": "⭐⭐ Medium",
+    "rule": "Can say \"put on my jacket\" OR \"put my jacket on\" (both OK!).",
+    "example": "✓ I put on my jacket. (verb + particle + noun)\n✓ I put my jacket on. (verb + noun + particle)\nBoth are correct!",
+    "question": "It was cold, so I ______ my jacket ______.",
+    "options": [
+      "put on my jacket",
+      "put my jacket on",
+      "put the jacket on me",
+      "put me the jacket on"
+    ],
+    "correctIndices": [
+      0,
+      1
+    ]
+  },
+  {
+    "id": "21.3",
+    "units": "115",
+    "topic": "put on your shoes, put your shoes on (phrasal verbs 2)",
+    "difficulty": "⭐⭐⭐ Hard",
+    "rule": "With pronoun (it): MUST put pronoun between verb and particle.",
+    "example": "✓ give it back (pronoun between)\n✗ give back it (wrong position)",
+    "question": "I've got Rachel's pencil. I have to ______ to her.",
+    "options": [
+      "give back it",
+      "give it back",
+      "give back them",
+      "give them back"
+    ],
+    "correctIndices": [
+      1
+    ]
+  }
+]
